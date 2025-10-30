@@ -17,7 +17,7 @@ export default function MogulPressLanding() {
                 <img 
                   src={Logo}
                   alt="MAGNATES PRESS" 
-                  className="h-8 lg:h-10"
+                  className="h-12 lg:h-16"
                 />
               </Link>
             </div>
