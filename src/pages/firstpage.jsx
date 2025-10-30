@@ -17,19 +17,19 @@ import img14 from '../assets/logos/14.png'
 import img15 from '../assets/logos/15.png'
 import img16 from '../assets/logos/16.png'
 // --- Global Styles & Font Imports ---
-const GlobalStyles = () => (
-    <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Poppins:wght@400;500;600;700&display=swap');
+// const GlobalStyles = () => (
+//     <style>{`
+//         @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Poppins:wght@400;500;600;700&display=swap');
         
-        body {
-            font-family: 'Poppins', sans-serif;
-        }
+//         body {
+//             font-family: 'Poppins', sans-serif;
+//         }
 
-        h1, h2, h3, h4, h5, h6 {
-            font-family: 'Montserrat', sans-serif;
-        }
-    `}</style>
-);
+//         h1, h2, h3, h4, h5, h6 {
+//             font-family: 'Montserrat', sans-serif;
+//         }
+//     `}</style>
+// );
 
 // --- SVG Icons ---
 const CheckCircleIcon = () => (
