@@ -1,12 +1,12 @@
-import img1 from '../assets/blog/1.webp';
-import img2 from '../assets/blog/2.webp';
-import img3 from '../assets/blog/3.webp';
-import img4 from '../assets/blog/4.webp';
-import img5 from '../assets/blog/5.webp';
-import img6 from '../assets/blog/6.webp';
-import img7 from '../assets/blog/7.webp';
-import img8 from '../assets/blog/8.webp';
-import img9 from '../assets/blog/9.webp';
+import img1 from '../assets/blog/1.jpg';
+import img2 from '../assets/blog/2.jpg';
+import img3 from '../assets/blog/3.jpg';
+import img4 from '../assets/blog/4.jpg';
+import img5 from '../assets/blog/5.jpg';
+import img6 from '../assets/blog/6.jpg';
+import img7 from '../assets/blog/7.jpg';
+import img8 from '../assets/blog/8.jpg';
+import img9 from '../assets/blog/9.jpg';
 
 export const blogPostsData = [
   {

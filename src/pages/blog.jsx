@@ -4,12 +4,7 @@ import { blogPostsData, getBlogPostById } from '../data/blogdata';
 // --- SVG Icon Components ---
 
 // Magnates Press 'M' Logo SVG
-const MogulLogo = () => (
-  <svg width="24" height="19" viewBox="0 0 24 19" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-    <path d="M4.36364 18.5V0.5H0V18.5H4.36364Z" fill="#D1A138"/>
-    <path d="M12 11.75L4.36364 0.5H8.72727L14.1818 9.5L19.6364 0.5H24L15.8182 11.75V18.5H12V11.75Z" fill="#D1A138"/>
-  </svg>
-);
+
 
 // Up Arrow Icon for the Scroll-to-Top button
 const ArrowUpIcon = () => (
