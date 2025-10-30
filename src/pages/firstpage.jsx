@@ -175,25 +175,6 @@ const PublicationsSection = () => {
                     ))}
                 </div>
             </div>
-
-            {/* Decorative scroll indicator */}
-            <div className="absolute bottom-4 right-4 md:bottom-6 md:right-6">
-                <div className="w-10 h-10 md:w-12 md:h-12 bg-[#DDB32E] rounded flex items-center justify-center cursor-pointer hover:bg-[#c9a429] transition-colors">
-                    <svg
-                        className="w-5 h-5 md:w-6 md:h-6 text-black"
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                    >
-                        <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M19 14l-7 7m0 0l-7-7m7 7V3"
-                        />
-                    </svg>
-                </div>
-            </div>
         </section>
     );
 };
