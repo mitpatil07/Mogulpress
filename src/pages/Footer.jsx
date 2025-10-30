@@ -58,11 +58,6 @@ export default function Footer() {
                   Contact Us
                 </a>
               </li>
-              <li>
-                <a href="/press-media" className="text-gray-300 text-xs sm:text-sm hover:text-white transition-colors">
-                  Press/Media
-                </a>
-              </li>
             </ul>
           </div>
 

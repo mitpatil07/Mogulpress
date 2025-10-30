@@ -33,9 +33,9 @@ export default function MogulPressLanding() {
               <a href="/contact-us" className="text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors">
                 CONTACT
               </a>
-              <a href="/press-media" className="text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors">
+              {/* <a href="/press-media" className="text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors">
                 PRESS/MEDIA
-              </a>
+              </a> */}
               <a href="/CaseStudy" className="text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors">
                 CASE STUDIES
               </a>
@@ -74,9 +74,9 @@ export default function MogulPressLanding() {
               <a href="/contact-us" className="block text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors py-2" onClick={() => setMenuOpen(false)}>
                 CONTACT
               </a>
-              <a href="/press-media" className="block text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors py-2" onClick={() => setMenuOpen(false)}>
+              {/* <a href="/press-media" className="block text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors py-2" onClick={() => setMenuOpen(false)}>
                 PRESS/MEDIA
-              </a>
+              </a> */}
               <a href="/CaseStudy" className="block text-white text-sm font-medium tracking-wide hover:text-yellow-400 transition-colors py-2" onClick={() => setMenuOpen(false)}>
                 CASE STUDIES
               </a>

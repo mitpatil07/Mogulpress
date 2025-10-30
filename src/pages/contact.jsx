@@ -63,56 +63,56 @@ const HeroSection = () => {
 };
 
 const ContactForm = () => {
-    const [agreed, setAgreed] = useState(false);
-    return (
-        <section className="bg-[#F8F8F8] py-16 md:py-20 px-4 sm:px-6 lg:px-8">
-            <div className="container mx-auto max-w-6xl">
-                <div className="text-center mb-12">
-                    <p className="text-lg md:text-xl text-[#D1A82E] uppercase tracking-widest mb-4" style={{fontFamily: "'Montserrat', sans-serif"}}>
-                        Tell us how we can help
-                    </p>
-                    <h2 className="text-3xl md:text-5xl font-extrabold text-black" style={{fontFamily: "'Montserrat', sans-serif"}}>
-                        Unlock Your Media <br className="md:hidden" />
-                        <span className="text-[#D1A82E] px-2 py-1"><br/>Potential with Us</span>
-                    </h2>
-                    <p className="text-base md:text-xl text-gray-600 mt-6 max-w-4xl mx-auto" style={{fontFamily: "'Open Sans', sans-serif"}}>
-                        We love to work with individuals and companies who are looking to use the power of the media to take their business to the next level. Just book a call with us, and we can discuss about how we can help.
-                    </p>
-                </div>
-                <form className="grid grid-cols-1 md:grid-cols-2 gap-6" style={{fontFamily: "'Open Sans', sans-serif"}}>
-                    <input type="text" placeholder="Your Name" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
-                    <input type="email" placeholder="Your Email" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
-                    <select className="p-4 bg-white border border-gray-300 rounded-md w-full text-gray-500 focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none">
-                        <option>Which service are you interested in</option>
-                        <option>Public Relations</option>
-                        <option>Featured Articles</option>
-                        <option>Social Media Verification</option>
-                        <option>Other</option>
-                    </select>
-                    <select className="p-4 bg-white border border-gray-300 rounded-md w-full text-gray-500 focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none">
-                        <option>What's Your Estimated Budget</option>
-                        <option>$5,000 - $10,000</option>
-                        <option>$10,000 - $20,000</option>
-                        <option>$20,000+</option>
-                    </select>
-                    <input type="tel" placeholder="Your Phone (Optional)" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
-                    <input type="text" placeholder="Your Company/Organization (Optional)" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
-                    <textarea placeholder="Let us know a bit about your project" rows="6" className="md:col-span-2 p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"></textarea>
-                    <div className="md:col-span-2 flex items-start space-x-3 text-xs sm:text-sm text-gray-500">
-                        <input type="checkbox" id="agree" checked={agreed} onChange={() => setAgreed(!agreed)} className="mt-1 h-4 w-4 border-gray-300 rounded text-[#D1A82E] focus:ring-[#D1A82E] flex-shrink-0"/>
-                        <label htmlFor="agree">
-                            I agree to <a href="#" className="text-[#D1A82E] underline">Privacy Policy</a> and <a href="#" className="text-[#D1A82E] underline">Terms & Conditions</a> provided by the Magnates Press LLC. By providing my phone number, I agree to receive text messages from the business. I agree to receive marketing messaging from Magnates Press LLC at the phone number provided above. I understand I will receive 2 messages a month, data rates may apply, reply STOP to opt out
-                        </label>
-                    </div>
-                    <div className="md:col-span-2 text-center mt-4">
-                        <button type="submit" className="bg-[#D1A82E] text-black font-bold text-base md:text-lg py-3 px-8 md:py-4 md:px-12 rounded-md hover:bg-yellow-500 transition-colors duration-300 w-full sm:w-auto" style={{fontFamily: "'Montserrat', sans-serif"}}>
-                            Let's Start a Conversation
-                        </button>
-                    </div>
-                </form>
-            </div>
-        </section>
-    );
+    // const [agreed, setAgreed] = useState(false);
+    // return (
+    //     // <section className="bg-[#F8F8F8] py-16 md:py-20 px-4 sm:px-6 lg:px-8">
+    //     //     <div className="container mx-auto max-w-6xl">
+    //     //         <div className="text-center mb-12">
+    //     //             <p className="text-lg md:text-xl text-[#D1A82E] uppercase tracking-widest mb-4" style={{fontFamily: "'Montserrat', sans-serif"}}>
+    //     //                 Tell us how we can help
+    //     //             </p>
+    //     //             <h2 className="text-3xl md:text-5xl font-extrabold text-black" style={{fontFamily: "'Montserrat', sans-serif"}}>
+    //     //                 Unlock Your Media <br className="md:hidden" />
+    //     //                 <span className="text-[#D1A82E] px-2 py-1"><br/>Potential with Us</span>
+    //     //             </h2>
+    //     //             <p className="text-base md:text-xl text-gray-600 mt-6 max-w-4xl mx-auto" style={{fontFamily: "'Open Sans', sans-serif"}}>
+    //     //                 We love to work with individuals and companies who are looking to use the power of the media to take their business to the next level. Just book a call with us, and we can discuss about how we can help.
+    //     //             </p>
+    //     //         </div>
+    //     //         <form className="grid grid-cols-1 md:grid-cols-2 gap-6" style={{fontFamily: "'Open Sans', sans-serif"}}>
+    //     //             <input type="text" placeholder="Your Name" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
+    //     //             <input type="email" placeholder="Your Email" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
+    //     //             <select className="p-4 bg-white border border-gray-300 rounded-md w-full text-gray-500 focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none">
+    //     //                 <option>Which service are you interested in</option>
+    //     //                 <option>Public Relations</option>
+    //     //                 <option>Featured Articles</option>
+    //     //                 <option>Social Media Verification</option>
+    //     //                 <option>Other</option>
+    //     //             </select>
+    //     //             <select className="p-4 bg-white border border-gray-300 rounded-md w-full text-gray-500 focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none">
+    //     //                 <option>What's Your Estimated Budget</option>
+    //     //                 <option>$5,000 - $10,000</option>
+    //     //                 <option>$10,000 - $20,000</option>
+    //     //                 <option>$20,000+</option>
+    //     //             </select>
+    //     //             <input type="tel" placeholder="Your Phone (Optional)" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
+    //     //             <input type="text" placeholder="Your Company/Organization (Optional)" className="p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"/>
+    //     //             <textarea placeholder="Let us know a bit about your project" rows="6" className="md:col-span-2 p-4 bg-white border border-gray-300 rounded-md w-full focus:ring-2 focus:ring-[#D1A82E] focus:border-transparent outline-none"></textarea>
+    //     //             <div className="md:col-span-2 flex items-start space-x-3 text-xs sm:text-sm text-gray-500">
+    //     //                 <input type="checkbox" id="agree" checked={agreed} onChange={() => setAgreed(!agreed)} className="mt-1 h-4 w-4 border-gray-300 rounded text-[#D1A82E] focus:ring-[#D1A82E] flex-shrink-0"/>
+    //     //                 <label htmlFor="agree">
+    //     //                     I agree to <a href="#" className="text-[#D1A82E] underline">Privacy Policy</a> and <a href="#" className="text-[#D1A82E] underline">Terms & Conditions</a> provided by the Magnates Press LLC. By providing my phone number, I agree to receive text messages from the business. I agree to receive marketing messaging from Magnates Press LLC at the phone number provided above. I understand I will receive 2 messages a month, data rates may apply, reply STOP to opt out
+    //     //                 </label>
+    //     //             </div>
+    //     //             <div className="md:col-span-2 text-center mt-4">
+    //     //                 <button type="submit" className="bg-[#D1A82E] text-black font-bold text-base md:text-lg py-3 px-8 md:py-4 md:px-12 rounded-md hover:bg-yellow-500 transition-colors duration-300 w-full sm:w-auto" style={{fontFamily: "'Montserrat', sans-serif"}}>
+    //     //                     Let's Start a Conversation
+    //     //                 </button>
+    //     //             </div>
+    //     //         </form>
+    //     //     </div>
+    //     // </section>
+    // );
 };
 
 const BookingSection = () => {
@@ -153,7 +153,7 @@ const ConnectSection = () => {
                     <div className="flex flex-col items-center">
                         <MailIcon />
                         <h3 className="text-2xl font-bold mt-4 mb-2 text-black" style={{fontFamily: "'Montserrat', sans-serif"}}>Email Us</h3>
-                        <a href="mailto:info@mogulpress.com" className="text-gray-600 hover:text-[#D1A82E] break-all">info@mogulpress.com</a>
+                        <a href="mailto:info@magnatespress.com" className="text-gray-600 hover:text-[#D1A82E] break-all">info@magnatespress.com</a>
                     </div>
                     <div className="flex flex-col items-center">
                          <div className="flex space-x-4 items-center h-16">
