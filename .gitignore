@@ -1,24 +1,65 @@
-# Logs
-logs
-*.log
+# Dependencies
+node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Build output
+dist/
+build/
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# Local environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+Thumbs.db
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Cache
+.cache/
+.parcel-cache/
+eslintcache
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test coverage
+coverage/
+__tests__/
+
+# Misc
+*.tgz
+*.zip
+
+# Local Firebase, Amplify, etc.
+.firebase/
+.amplify/
+
+# Vite specific
+vite.config.ts.timestamp*
+vite.config.js.timestamp*
+
+# TypeScript build info
+*.tsbuildinfo
