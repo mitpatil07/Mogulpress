@@ -3,7 +3,7 @@ import { blogPostsData, getBlogPostById } from '../data/blogdata';
 
 // --- SVG Icon Components ---
 
-// Mogul Press 'M' Logo SVG
+// Magnates Press 'M' Logo SVG
 const MogulLogo = () => (
   <svg width="24" height="19" viewBox="0 0 24 19" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <path d="M4.36364 18.5V0.5H0V18.5H4.36364Z" fill="#D1A138"/>
@@ -256,9 +256,9 @@ export default function App() {
         ></div>
         <div className="relative z-10">
           <p className="text-[#D1A138] text-xl tracking-widest mb-4">OUR BLOG</p>
-          <h1 className="text-5xl md:text-6xl font-bold mb-4">Mogul Press Blog</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-4">Magnates Press Blog</h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Explore the voices behind Mogul Press. Discover diverse topics, insights, and stories in our blogs.
+            Explore the voices behind Magnates Press. Discover diverse topics, insights, and stories in our blogs.
           </p>
         </div>
       </header>

@@ -9,11 +9,11 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <img 
               src="https://via.placeholder.com/150x40/000/DDB32E?text=MOGUL+PRESS"
-              alt="MOGUL PRESS" 
+              alt="MAGNATES PRESS" 
               className="h-8 sm:h-10 mb-4 sm:mb-6"
             />
             <p className="text-gray-400 text-xs sm:text-sm leading-relaxed mb-4 sm:mb-6">
-              Mogul Press is a public relations and communications agency specialized in media placements, personal branding, and marketing strategy.
+              Magnates Press is a public relations and communications agency specialized in media placements, personal branding, and marketing strategy.
             </p>
             <div className="flex space-x-3 sm:space-x-4">
               <a href="#facebook" className="text-gray-300 hover:text-white transition-colors" aria-label="Facebook">
@@ -109,7 +109,7 @@ export default function Footer() {
         <div className="mt-8 sm:mt-10 md:mt-12 pt-6 sm:pt-8 border-t border-gray-800">
           <div className="text-center mb-4 sm:mb-6">
             <p className="text-gray-400 text-xs sm:text-sm mb-3 sm:mb-4">
-              © 2025 Mogul Press LLC. All Rights Reserved.
+              © 2025 Magnates Press LLC. All Rights Reserved.
             </p>
             <div className="flex flex-wrap justify-center items-center gap-2 sm:gap-4">
               <a href="/privacy-policy" className="text-gray-400 text-xs sm:text-sm hover:text-white transition-colors">
@@ -128,7 +128,7 @@ export default function Footer() {
               *This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.
             </p>
             <p className="text-gray-500 text-[10px] sm:text-xs leading-relaxed max-w-5xl mx-auto">
-              Mogul Press is a public relations and communications agency specialized in media placements, personal branding, and marketing strategy. We do not offer any type of business opportunity, "get rich quick" scheme, or money-making strategy. We believe that education can better equip individuals to make financial decisions, but we cannot promise success in our programme. We make no profits claims, effort claims, or promises that our training will bring you money. All content is intellectual property and is copyrighted. Any form of replication, duplicate, or distribution is strictly prohibited.
+              Magnates Press is a public relations and communications agency specialized in media placements, personal branding, and marketing strategy. We do not offer any type of business opportunity, "get rich quick" scheme, or money-making strategy. We believe that education can better equip individuals to make financial decisions, but we cannot promise success in our programme. We make no profits claims, effort claims, or promises that our training will bring you money. All content is intellectual property and is copyrighted. Any form of replication, duplicate, or distribution is strictly prohibited.
             </p>
           </div>
         </div>

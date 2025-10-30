@@ -84,7 +84,7 @@ const App = () => {
             <div className="flex items-start space-x-3">
               <input type="checkbox" id="terms" className="mt-1 h-4 w-4 text-[#dcb25c] border-gray-300 rounded focus:ring-[#dcb25c]"/>
               <label htmlFor="terms" className="text-gray-500 text-sm">
-                I agree to <a href="#" className="text-[#dcb25c] hover:underline">Privacy Policy</a> and <a href="#" className="text-[#dcb25c] hover:underline">Terms & Conditions</a> provided by the Mogul Press LLC. By providing my phone number, I agree to receive text messages from the business. I agree to receive marketing messaging from Mogul Press LLC at the phone number provided above. I understand I will receive 2 messages a month, data rates may apply, reply STOP to opt out.
+                I agree to <a href="#" className="text-[#dcb25c] hover:underline">Privacy Policy</a> and <a href="#" className="text-[#dcb25c] hover:underline">Terms & Conditions</a> provided by the Magnates Press LLC. By providing my phone number, I agree to receive text messages from the business. I agree to receive marketing messaging from Magnates Press LLC at the phone number provided above. I understand I will receive 2 messages a month, data rates may apply, reply STOP to opt out.
               </label>
             </div>
 

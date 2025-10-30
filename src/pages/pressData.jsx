@@ -45,141 +45,141 @@ const pressFeatures = [
     {
         publication: 'HOLLYWOOD UNLOCKED',
         quote: '"Ranked No#1: Hollywood\'s Power Players: The Top 10 PR Firms Behind Celebrity Success". - HOLLYWOOD UNLOCKED',
-        description: 'MOGUL PRESS takes the top spot in Hollywood Unlocked\'s rankings, recognized as the No#1 PR firm behind celebrity success. Our unwavering commitment to elevating celebrities has earned us this prestigious position. We\'re the driving force behind star-studded triumphs in the world of entertainment.',
+        description: 'MAGNATES PRESS takes the top spot in Hollywood Unlocked\'s rankings, recognized as the No#1 PR firm behind celebrity success. Our unwavering commitment to elevating celebrities has earned us this prestigious position. We\'re the driving force behind star-studded triumphs in the world of entertainment.',
         articleUrl: 'https://hollywoodunlocked.com/hollywoods-power-players-the-top-10-pr-firms-behind-celebrity-success/#:~:text=of%20famous%20personalities%3A-,Mogul%20Press,-Mogul%20Press%2C%20founded',
         imgurl: 'https://mogulpress.com/storage/2023/10/Hollywood.jpg',
-        imageAlt: 'Preview of Mogul Press article in Hollywood Unlocked'
+        imageAlt: 'Preview of Magnates Press article in Hollywood Unlocked'
     },
     {
         publication: 'OUTLOOK',
         quote: '"A Full-Service PR Firm Elevating Brands To The Next Level". - OUTLOOK',
-        description: 'MOGUL PRESS has secured a feature in Outlook, highlighting our role as a full-service PR firm dedicated to elevating brands to new heights. We pride ourselves on being the driving force behind taking brands to the next level. Outlook recognizes our commitment to excellence and innovation in the PR industry.',
+        description: 'MAGNATES PRESS has secured a feature in Outlook, highlighting our role as a full-service PR firm dedicated to elevating brands to new heights. We pride ourselves on being the driving force behind taking brands to the next level. Outlook recognizes our commitment to excellence and innovation in the PR industry.',
         articleUrl: 'https://www.outlookindia.com/business-spotlight/mogul-press-a-full-service-pr-firm-elevating-brands-to-the-next-level-news-226730',
         imgurl: 'https://mogulpress.com/storage/2023/09/Outlook.jpg',
-        imageAlt: 'Preview of Mogul Press article in Outlook'
+        imageAlt: 'Preview of Magnates Press article in Outlook'
     },
     {
         publication: 'Business Insider',
-        quote: '"Mogul Press Goes Global, Handcrafting the Best PR Strategies for Clients". - Business Insider',
-        description: 'MOGUL PRESS continues to make waves in the PR world, this time grabbing the spotlight in Yahoo Finance. We\'re excited to announce our global expansion as we handcraft cutting-edge PR strategies that redefine excellence.',
+        quote: '"Magnates Press Goes Global, Handcrafting the Best PR Strategies for Clients". - Business Insider',
+        description: 'MAGNATES PRESS continues to make waves in the PR world, this time grabbing the spotlight in Yahoo Finance. We\'re excited to announce our global expansion as we handcraft cutting-edge PR strategies that redefine excellence.',
         articleUrl: 'https://markets.businessinsider.com/news/stocks/mogul-press-goes-global-handcrafting-the-best-pr-strategies-for-clients-1031763970',
         imgurl: 'https://mogulpress.com/storage/2023/10/Business-Insider.png',
-        imageAlt: 'Preview of Mogul Press article in Business Insider'
+        imageAlt: 'Preview of Magnates Press article in Business Insider'
     },
     {
         publication: 'FAST COMPANY',
-        quote: '"Leading PR Firm Mogul Press Is Helping Brands Break Through The Noise". - FAST COMPANY',
-        description: 'MOGUL PRESS is making its mark in the PR industry, as highlighted by FAST COMPANY. We\'re at the forefront, helping brands effectively break through the noise and stand out in a crowded marketplace. FAST COMPANY recognizes our leadership in the field, and we\'re committed to continuing our mission of driving innovation and success for our clients in the ever-evolving world of public relations.',
+        quote: '"Leading PR Firm Magnates Press Is Helping Brands Break Through The Noise". - FAST COMPANY',
+        description: 'MAGNATES PRESS is making its mark in the PR industry, as highlighted by FAST COMPANY. We\'re at the forefront, helping brands effectively break through the noise and stand out in a crowded marketplace. FAST COMPANY recognizes our leadership in the field, and we\'re committed to continuing our mission of driving innovation and success for our clients in the ever-evolving world of public relations.',
         articleUrl: 'https://www.fastcompany.co.za/business/leading-pr-firm-mogul-press-is-helping-brands-break-through-the-noise-d9cec7d5-a984-4ee1-8148-010e0bf3b0b5',
-        imageAlt: 'Preview of Mogul Press article in Fast Company',
+        imageAlt: 'Preview of Magnates Press article in Fast Company',
         imgurl: 'https://mogulpress.com/storage/2023/10/Fast-Company.png',
     },
     {
         publication: 'VENTURE CAPITAL POST',
         quote: '"Ranked No#1: 15 Best PR Agencies for Venture Capital Firms". - VENTURE CAPITAL',
-        description: 'MOGUL PRESS proudly ranks No#1 among the \'15 Best PR Agencies for Venture Capital Firms,\' featured in Venture Capital Post. Our dedication, exceptional results, and unmatched expertise have earned us this prestigious recognition. We\'re committed to providing top-tier PR services that drive success in the dynamic world of venture capital.',
+        description: 'MAGNATES PRESS proudly ranks No#1 among the \'15 Best PR Agencies for Venture Capital Firms,\' featured in Venture Capital Post. Our dedication, exceptional results, and unmatched expertise have earned us this prestigious recognition. We\'re committed to providing top-tier PR services that drive success in the dynamic world of venture capital.',
         articleUrl: 'https://www.vcpost.com/articles/124094/20230925/15-best-pr-agencies-for-venture-capital-firms.htm#:~:text=For%20VC%20Firms-,1.%20Mogul%20Press%3A%C2%A0,-Mogul%20Press%2C%20also',
         imgurl: '	https://mogulpress.com/storage/2023/10/1.jpg',
-        imageAlt: 'Preview of Mogul Press article in Venture Capital Post'
+        imageAlt: 'Preview of Magnates Press article in Venture Capital Post'
     },
     {
         publication: 'LA WEEKLY',
-        quote: '"Mogul Press Can Brighten Up Your PR Strategy. Here\'s How". - LA WEEKLY',
-        description: 'MOGUL PRESS has garnered attention in LA Weekly, shedding light on our ability to illuminate your PR strategy. We\'re here to bring a fresh perspective, showcasing how we can brighten up your approach to public relations. LA Weekly recognizes our expertise and innovative approach in delivering impactful results for our clients.',
+        quote: '"Magnates Press Can Brighten Up Your PR Strategy. Here\'s How". - LA WEEKLY',
+        description: 'MAGNATES PRESS has garnered attention in LA Weekly, shedding light on our ability to illuminate your PR strategy. We\'re here to bring a fresh perspective, showcasing how we can brighten up your approach to public relations. LA Weekly recognizes our expertise and innovative approach in delivering impactful results for our clients.',
         articleUrl: 'https://mogulpress.com/storage/2023/09/LA-Weekly.jpg',
         imgurl: 'https://mogulpress.com/storage/2023/09/LA-Weekly.jpg',
-        imageAlt: 'Preview of Mogul Press article in LA Weekly',
+        imageAlt: 'Preview of Magnates Press article in LA Weekly',
         directImage: true
     },
     {
         publication: 'Bloomberg',
-        quote: '"Mogul Press: Disrupting the PR Industry". - Bloomberg',
-        description: 'MOGUL PRESS is making headlines once again, this time earning recognition from Bloomberg. Our agency is going global, crafting tailor-made PR strategies that set the gold standard for client success. Bloomberg acknowledges our dedication to excellence, and we\'re proud to lead the charge in reshaping the PR landscape on a global scale.',
+        quote: '"Magnates Press: Disrupting the PR Industry". - Bloomberg',
+        description: 'MAGNATES PRESS is making headlines once again, this time earning recognition from Bloomberg. Our agency is going global, crafting tailor-made PR strategies that set the gold standard for client success. Bloomberg acknowledges our dedication to excellence, and we\'re proud to lead the charge in reshaping the PR landscape on a global scale.',
         articleUrl: 'https://mogulpress.com/storage/2023/10/Bloomberg.png',
         imgurl: '	https://mogulpress.com/storage/2023/10/Bloomberg.png',
-        imageAlt: 'Preview of Mogul Press article in Bloomberg',
+        imageAlt: 'Preview of Magnates Press article in Bloomberg',
         directImage: true
     },
     {
         publication: 'Mashable',
-        quote: '"Mogul Press: Redefining Tech PR Excellence in Today\'s Digital Era". - Mashable',
-        description: 'Mogul Press has once again made waves in the industry, earning a spotlight on Mashable for our groundbreaking work in redefining tech PR excellence. The article highlights our commitment to navigating the ever-evolving digital landscape with innovative strategies.',
+        quote: '"Magnates Press: Redefining Tech PR Excellence in Today\'s Digital Era". - Mashable',
+        description: 'Magnates Press has once again made waves in the industry, earning a spotlight on Mashable for our groundbreaking work in redefining tech PR excellence. The article highlights our commitment to navigating the ever-evolving digital landscape with innovative strategies.',
         articleUrl: 'https://nl.mashable.com/pr/9296/mogul-press-redefining-tech-pr-excellence-in-todays-digital-era',
-        imageAlt: 'Preview of Mogul Press article in Mashable',
+        imageAlt: 'Preview of Magnates Press article in Mashable',
         imgurl: 'https://mogulpress.com/storage/2023/10/Business-Insider.png',
     },
     {
         publication: 'International Business Times',
-        quote: '"Mogul Press: One Of The Fastest Growing PR Firms In The World". - International Business Times',
-        description: 'MOGUL PRESS has gained international acclaim, earning a feature in the prestigious International Business Times. As one of the fastest-growing PR firms globally, we\'re proud of our rapid ascent in the industry. International Business Times recognizes our dedication to excellence and our unwavering commitment to delivering exceptional results for our clients.',
+        quote: '"Magnates Press: One Of The Fastest Growing PR Firms In The World". - International Business Times',
+        description: 'MAGNATES PRESS has gained international acclaim, earning a feature in the prestigious International Business Times. As one of the fastest-growing PR firms globally, we\'re proud of our rapid ascent in the industry. International Business Times recognizes our dedication to excellence and our unwavering commitment to delivering exceptional results for our clients.',
         articleUrl: 'https://www.ibtimes.sg/mogul-press-one-fastest-growing-pr-firms-world-64231',
         imgurl: '	https://mogulpress.com/storage/2023/09/IBT-3.jpg',
-        imageAlt: 'Preview of Mogul Press article in International Business Times'
+        imageAlt: 'Preview of Magnates Press article in International Business Times'
     },
     {
         publication: 'OK Magazine',
         quote: '"Ranked No#1: Lights, Camera, PR: The Top Celebrity Publicists in Hollywood". - OK Magazine',
-        description: 'OK Magazine features Mogul Press as a top-tier USA-based PR agency shaping Hollywood narratives. Renowned for collaborations with stars like Selena Gomez and successful campaigns with entertainment giants such as Walt Disney Studios, we take pride in our influential role in the industry.',
+        description: 'OK Magazine features Magnates Press as a top-tier USA-based PR agency shaping Hollywood narratives. Renowned for collaborations with stars like Selena Gomez and successful campaigns with entertainment giants such as Walt Disney Studios, we take pride in our influential role in the industry.',
         articleUrl: 'https://okmagazine.com/p/lights-camera-pr-top-celebrity-publicists-hollywood/#:~:text=Nasty%20Little%20Man-,1.%20Mogul%20Press,-As%20a%20leading',
         imgurl: '	https://mogulpress.com/storage/2024/01/Mogul-Press-OK-Magazine-1.jpg',
-        imageAlt: 'Preview of Mogul Press article in OK Magazine'
+        imageAlt: 'Preview of Magnates Press article in OK Magazine'
     },
     {
         publication: 'Hindustan Times',
-        quote: '"Mogul Press Leads the Charge in Redefining Public Relations for a New Era ". - Hindustan Times',
-        description: 'Hindustan Times profiles Mogul Press as the unsung hero revolutionizing public relations for celebrities. The stars\' ascent to stardom and their enjoyment of the limelight are orchestrated by the strategic genius of agencies such as Mogul Press.',
+        quote: '"Magnates Press Leads the Charge in Redefining Public Relations for a New Era ". - Hindustan Times',
+        description: 'Hindustan Times profiles Magnates Press as the unsung hero revolutionizing public relations for celebrities. The stars\' ascent to stardom and their enjoyment of the limelight are orchestrated by the strategic genius of agencies such as Magnates Press.',
         articleUrl: 'https://www.hindustantimes.com/brand-stories/mogul-press-leads-the-charge-in-redefining-public-relations-for-a-new-era-101706611546069.html',
         imgurl: 'https://mogulpress.com/storage/2024/02/Screenshot-2024-02-13-174739.png',
-        imageAlt: 'Preview of Mogul Press article in Hindustan Times'
+        imageAlt: 'Preview of Magnates Press article in Hindustan Times'
     },
     {
         publication: 'HOLLYWOOD LIFE',
-        quote: '"Mogul Press: Behind the Scenes of Celebrity PR Success Stories". - HOLLYWOOD LIFE',
-        description: 'HOLLYWOOD LIFE shines a spotlight on Mogul Press, the behind-the-scenes powerhouse reshaping the landscape of celebrity PR. While the stars bask in the limelight, it\'s the strategic genius of agencies like Mogul Press that orchestrates their ascent to greatness.',
+        quote: '"Magnates Press: Behind the Scenes of Celebrity PR Success Stories". - HOLLYWOOD LIFE',
+        description: 'HOLLYWOOD LIFE shines a spotlight on Magnates Press, the behind-the-scenes powerhouse reshaping the landscape of celebrity PR. While the stars bask in the limelight, it\'s the strategic genius of agencies like Magnates Press that orchestrates their ascent to greatness.',
         articleUrl: 'https://hollywoodlife.com/2024/02/09/behind-the-scenes-of-celebrity-pr-success-stories/',
         imgurl: 'https://mogulpress.com/storage/2024/02/Hollywood-Life-Mogul-Press.jpg',
-        imageAlt: 'Preview of Mogul Press article in Hollywood Life'
+        imageAlt: 'Preview of Magnates Press article in Hollywood Life'
     },
     {
         publication: 'Market Watch',
-        quote: '"Mogul Press Celebrates Half a Decade of Redefining Public Relations Serving Over 10,000 Clients". - Market Watch',
-        description: 'Market Watch has featured MOGUL PRESS, emphasizing our position as a full-service PR company committed to taking businesses to new heights. We take great satisfaction in being the engine that elevates brands to new heights. Outlook acknowledges our dedication to innovation and quality in the PR sector.',
+        quote: '"Magnates Press Celebrates Half a Decade of Redefining Public Relations Serving Over 10,000 Clients". - Market Watch',
+        description: 'Market Watch has featured MAGNATES PRESS, emphasizing our position as a full-service PR company committed to taking businesses to new heights. We take great satisfaction in being the engine that elevates brands to new heights. Outlook acknowledges our dedication to innovation and quality in the PR sector.',
         articleUrl: 'https://www.marketwatch.com/press-release/mogul-press-celebrates-half-a-decade-of-redefining-public-relations-serving-over-10-000-clients-338edec0',
         imgurl: 'https://mogulpress.com/storage/2024/02/Screenshot-2024-02-13-174356.png',
-        imageAlt: 'Preview of Mogul Press article in Market Watch'
+        imageAlt: 'Preview of Magnates Press article in Market Watch'
     },
     {
         publication: 'Khaleej Times',
-        quote: '"Nabeel Ahmad\'s vision drives Mogul Press\'s expansion in the Middle East since 2019 " - Khaleej Times',
-        description: 'Delving into the dynamic landscape of Middle Eastern PR, the Khaleej Times spotlights Mogul Press and its transformative journey under the visionary leadership of Nabeel Ahmad. Since its inception in 2019, Mogul Press has redefined media relations and branding standards, ushering in a new era of innovation and excellence in the region.',
+        quote: '"Nabeel Ahmad\'s vision drives Magnates Press\'s expansion in the Middle East since 2019 " - Khaleej Times',
+        description: 'Delving into the dynamic landscape of Middle Eastern PR, the Khaleej Times spotlights Magnates Press and its transformative journey under the visionary leadership of Nabeel Ahmad. Since its inception in 2019, Magnates Press has redefined media relations and branding standards, ushering in a new era of innovation and excellence in the region.',
         articleUrl: 'https://www.khaleejtimes.com/kt-network/nabeel-ahmads-vision-drives-mogul-presss-expansion-in-the-middle-east-since-2019',
         imgurl: 'https://mogulpress.com/storage/2024/02/Khaleej-Times.jpg',
-        imageAlt: 'Preview of Mogul Press article in Khaleej Times'
+        imageAlt: 'Preview of Magnates Press article in Khaleej Times'
     },
     {
         publication: 'Independent',
-        quote: '"Mogul Press: Turning Entrepreneurs Into Industry Titans". - Independent',
-        description: 'Since its founding in 2019, Mogul Press has not just been another PR agency, it has redefined the very essence of public relations.',
+        quote: '"Magnates Press: Turning Entrepreneurs Into Industry Titans". - Independent',
+        description: 'Since its founding in 2019, Magnates Press has not just been another PR agency, it has redefined the very essence of public relations.',
         imgurl: 'https://mogulpress.com/storage/2024/03/Independent-UK.jpg',
         articleUrl: 'https://www.independent.co.uk/asia',
-        imageAlt: 'Preview of Mogul Press article in Independent'
+        imageAlt: 'Preview of Magnates Press article in Independent'
     },
     {
         publication: 'USA Today',
-        quote: '"Nabeel Ahmad and Mogul Press: A New Horizon in the World of Public Relations". - USA Today',
-        description: 'USA Today highlights Mogul Press, the unsung hero changing the face of celebrity public relations. The strategic brilliance of agencies like Mogul Press is what orchestrates the stars\' rise to fame as they revel in the spotlight.',
+        quote: '"Nabeel Ahmad and Magnates Press: A New Horizon in the World of Public Relations". - USA Today',
+        description: 'USA Today highlights Magnates Press, the unsung hero changing the face of celebrity public relations. The strategic brilliance of agencies like Magnates Press is what orchestrates the stars\' rise to fame as they revel in the spotlight.',
         articleUrl: 'https://placehold.co/1200x800/FFFFFF/333333?text=USA+Today+Article',
         imgurl: 'https://mogulpress.com/storage/2024/02/Screenshot-2024-02-13-173712.png',
-        imageAlt: 'Preview of Mogul Press article in USA Today',
+        imageAlt: 'Preview of Magnates Press article in USA Today',
         directImage: true
     },
     {
         publication: 'Benzinga',
-        quote: '"Mogul Press: Shaping The Future Of Corporate Communications – A Fresh Perspective". - Benzinga',
-        description: 'According to Benzinga, Mogul Press is the unsung hero transforming celebrity public relations. The deliberate brilliance of firms like Mogul Press orchestrates the stars\' rise to fame and their revelry in the spotlight.',
+        quote: '"Magnates Press: Shaping The Future Of Corporate Communications – A Fresh Perspective". - Benzinga',
+        description: 'According to Benzinga, Magnates Press is the unsung hero transforming celebrity public relations. The deliberate brilliance of firms like Magnates Press orchestrates the stars\' rise to fame and their revelry in the spotlight.',
         articleUrl: 'https://www.benzinga.com/general/24/02/37126028/mogul-press-shaping-the-future-of-corporate-communications-a-fresh-perspective',
         imgurl: '	https://mogulpress.com/storage/2024/02/Screenshot-2024-02-14-223510.png',
-        imageAlt: 'Preview of Mogul Press article in Benzinga'
+        imageAlt: 'Preview of Magnates Press article in Benzinga'
     }
 ];
 
@@ -210,7 +210,7 @@ const HeroSection = () => {
 
                 {/* Main Headline */}
                 <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight mb-6 md:mb-8 px-4">
-                    Mogul Press has been Featured on 100's of<br className="hidden md:block" /> Major Media Outlets
+                    Magnates Press has been Featured on 100's of<br className="hidden md:block" /> Major Media Outlets
                 </h1>
 
                 {/* Subheading */}

@@ -27,7 +27,7 @@ export const caseStudiesData = {
         strategy: ["Present Arjun's success story from a unique angle...", "Improve Google search presence for Arjun and his company", "Boost social media credibility and authority...", "Build the foundation to make Arjun Dhingra a contributor...", "Generate enough press so that it could be used as leverage..."],
         results: ["Got Arjun featured in several publications, including Benzinga, The Inscriber Magazine, Yahoo Finance, LA Progressive, and others", "Created compelling content and strategically placed it in major media outlets...", "Helped Arjun Dhingra to become a contributor to the Forbes Business Council", "Boosted press exposure and online presence tremendously...", "Attained robust media coverage and helped him become a contributor on these websites...", "We got him in an interview on Las Vegas Now, CBS46 Atlanta Plugged In..."],
         publications: { subtitle: "Featured On", title: "Notable Publications Featuring", imageUrl: "https://mogulpress.com/storage/2023/10/Arjun-Dhingra.jpg" },
-        testimonial: { subtitle: "Arjun's Testimonial", title: "What Arjun Has To Say", intro: "Discover how strategic storytelling and media placement elevated Arjun Dhingra's profile and credibility.", quote: "\"I connected with Mogul Press to do a full-fledged PR campaign for me, and they completely exceeded my expectations...\"", role: "Leading Mortgage and Real Estate Consultant", videoUrl: "https://www.youtube.com/watch?v=aO4LJs3gwxM" }
+        testimonial: { subtitle: "Arjun's Testimonial", title: "What Arjun Has To Say", intro: "Discover how strategic storytelling and media placement elevated Arjun Dhingra's profile and credibility.", quote: "\"I connected with Magnates Press to do a full-fledged PR campaign for me, and they completely exceeded my expectations...\"", role: "Leading Mortgage and Real Estate Consultant", videoUrl: "https://www.youtube.com/watch?v=aO4LJs3gwxM" }
     },
     walidChaya: {
         id: "walidChaya",
@@ -40,7 +40,7 @@ export const caseStudiesData = {
         strategy: ["Showcase his award-winning short films to establish credibility.", "Secure interviews with top-tier entertainment journalists.", "Position him as a thought leader on multicultural storytelling.", "Create a professional electronic press kit (EPK).", "Leverage social media to engage with a global audience."],
         results: ["Featured in Variety and The Hollywood Reporter.", "Secured a panelist spot at a major film festival.", "Increased his social media following by 150%.", "Received multiple offers for representation.", "Successfully funded his upcoming feature film through new connections."],
         publications: { subtitle: "As Seen In", title: "Notable Publications Featuring", imageUrl: "https://mogulpress.com/storage/2023/10/Walid-Chaya-1024x684.jpg" },
-        testimonial: { subtitle: "Walid's Words", title: "What Walid Has To Say", intro: "Learn how our tailored PR strategy amplified Walid Chaya's voice in the film industry.", quote: "\"The team at Mogul Press understood my vision perfectly. Their strategic approach opened doors I never thought possible. They are true partners in an artist's journey.\"", role: "Award-Winning Director & Actor", videoUrl: "https://www.youtube.com/watch?v=cAQo35So-Sc" }
+        testimonial: { subtitle: "Walid's Words", title: "What Walid Has To Say", intro: "Learn how our tailored PR strategy amplified Walid Chaya's voice in the film industry.", quote: "\"The team at Magnates Press understood my vision perfectly. Their strategic approach opened doors I never thought possible. They are true partners in an artist's journey.\"", role: "Award-Winning Director & Actor", videoUrl: "https://www.youtube.com/watch?v=cAQo35So-Sc" }
     },
     justinCao: {
         id: "justinCao",
@@ -107,7 +107,7 @@ export const caseStudiesData = {
             subtitle: "Justin's Testimonial",
             title: "What Justin Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Justin Cao's profile and credibility.",
-            quote: "“I want to give a big shoutout to Mogul Press. They helped me to get featured on Yahoo Finance, Bloomberg, International Business Time (Singapore), and a bunch of amazing news outlets, so my experience has been amazing. They over-delivered what they promised, and also, the team has been excellent.”",
+            quote: "“I want to give a big shoutout to Magnates Press. They helped me to get featured on Yahoo Finance, Bloomberg, International Business Time (Singapore), and a bunch of amazing news outlets, so my experience has been amazing. They over-delivered what they promised, and also, the team has been excellent.”",
             role: "Amazon FBA Mentor",
             videoUrl: "https://www.youtube.com/watch?v=F2C0btRktY4", // optional
         },
@@ -176,7 +176,7 @@ export const caseStudiesData = {
             subtitle: "Antonio's Testimonial",
             title: "What Antonio Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Antonio Underwood's profile and credibility.",
-            quote: "“Mogul Press captured the true essence of me and my company. If you are looking to find consistency at a good price and people who can capture the right essence right away, then I truly recommend Mogul Press.”",
+            quote: "“Magnates Press captured the true essence of me and my company. If you are looking to find consistency at a good price and people who can capture the right essence right away, then I truly recommend Magnates Press.”",
             role: "Award-Winning Music Scholar",
             videoUrl: "https://www.youtube.com/watch?v=BC2463slhL8", // optional video link
         },
@@ -318,7 +318,7 @@ export const caseStudiesData = {
             subtitle: "Kyle's Testimonial",
             title: "What Zeroed-In Consulting Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Zeroed-In’s profile and credibility.",
-            quote: "“As we started our PR journey, we didn't really know where to start. So coming across Mogul Press was great. They were transparent in giving us a package of reasonably priced but high-impact publications. For those who are concerned about finding the right publications for our business being a bit overwhelming, Mogul did a great job overdelivering and getting us on publications such as Yahoo Finance and Bloomberg. Thank you so much for making this process seamless. Based on our experience, we would highly recommend it.”",
+            quote: "“As we started our PR journey, we didn't really know where to start. So coming across Magnates Press was great. They were transparent in giving us a package of reasonably priced but high-impact publications. For those who are concerned about finding the right publications for our business being a bit overwhelming, Mogul did a great job overdelivering and getting us on publications such as Yahoo Finance and Bloomberg. Thank you so much for making this process seamless. Based on our experience, we would highly recommend it.”",
             role: "Consulting Company",
             videoUrl: "https://www.youtube.com/watch?v=ZeIbys_-FNk", // optional
         },
@@ -388,7 +388,7 @@ export const caseStudiesData = {
             subtitle: "Laurie's Testimonial",
             title: "What Laurie Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Laurie Mintz’s profile and credibility.",
-            quote: "“I worked with Mogul Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same. They are easy to work with, communicative, and very professional.”",
+            quote: "“I worked with Magnates Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same. They are easy to work with, communicative, and very professional.”",
             role: "Licensed Psychologist, Certified Sex Therapist, and Keynote Speaker",
             videoUrl: "https://www.youtube.com/embed/example", // optional
         },
@@ -460,7 +460,7 @@ export const caseStudiesData = {
             subtitle: "Robert's Testimonial",
             title: "What Robert Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Robert Ritter’s profile and credibility.",
-            quote: "“Working with Mogul Press was exceptional. They helped me strategically get featured in major publications, which tremendously boosted my brand credibility and online presence.”",
+            quote: "“Working with Magnates Press was exceptional. They helped me strategically get featured in major publications, which tremendously boosted my brand credibility and online presence.”",
             role: "Entrepreneur & FinTech Innovator",
             videoUrl: "https://www.youtube.com/embed/example", // optional
         },
@@ -603,7 +603,7 @@ export const caseStudiesData = {
             subtitle: "Adam's Testimonial",
             title: "What Adam Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Adam Goryl's profile and credibility.",
-            quote: "“I just want to give a huge shoutout to Mogul Press for all the amazing PR work that they have done for me, I was able to be featured in some really major publications. I highly recommend using Mogul Press.”",
+            quote: "“I just want to give a huge shoutout to Magnates Press for all the amazing PR work that they have done for me, I was able to be featured in some really major publications. I highly recommend using Magnates Press.”",
             role: "Entrepreneur and Influencer",
             videoUrl: "https://www.youtube.com/embed/example"
         }
@@ -628,7 +628,7 @@ export const caseStudiesData = {
                 "Despite setbacks, Henry demonstrated resilience by founding multiple successful ventures, including P3r$Pec71vE PODCAST, Calix Fashion, Calix Online Financial, and notably, Weedsies Online Marketplace.",
                 "Weedsies, launched on April 20, 2020, aims to be the 'Amazon/Shopify' for cannabis retailers and consumers, offering an online marketplace, mobile app, and offline retail avenues. The platform also accepts cryptocurrencies, catering to the evolving cannabis industry.",
                 "Henry's innovative approach and dedication led to his recognition in Business Elite’s '40 Under 40' at an award gala held at St. Regis in New York on June 30th.",
-                "Seeking to enhance his brand's visibility and credibility, Henry approached Mogul Press to secure media coverage and establish himself as an industry thought leader.",
+                "Seeking to enhance his brand's visibility and credibility, Henry approached Magnates Press to secure media coverage and establish himself as an industry thought leader.",
             ],
         },
         process: {
@@ -673,7 +673,7 @@ export const caseStudiesData = {
             subtitle: "Henry's Testimonial",
             title: "What Henry Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Henry Calix's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
+            quote: "“Magnates Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
             role: "CEO, Weedsies",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -697,7 +697,7 @@ export const caseStudiesData = {
                 "Tom Caravela was born and raised in Northern New Jersey, just outside of New York City. After graduating from Rutgers University in 1990, he embarked on a career in pharmaceutical sales, spending 10 years in various field sales roles.",
                 "With over 30 years of experience in the pharmaceutical and biotech industry, Tom has been managing The Carolan Group for 20 years. The firm specializes in identifying top talent for Medical Affairs, focusing on a niche, client-driven approach dedicated to the scientific community.",
                 "In addition to his recruitment firm, Tom launched 'MSL Talk,' a podcast aimed at providing valuable insights and discussions on MSL trends, industry news, statistics, and hiring data. The podcast has garnered a global audience, reflecting Tom's influence in the field.",
-                "Seeking to further enhance his brand and social media credibility, Tom approached Mogul Press with goals to become a contributor to major websites and secure interviews on well-known TV shows.",
+                "Seeking to further enhance his brand and social media credibility, Tom approached Magnates Press with goals to become a contributor to major websites and secure interviews on well-known TV shows.",
             ],
         },
         process: {
@@ -742,7 +742,7 @@ export const caseStudiesData = {
             subtitle: "Tom's Testimonial",
             title: "What Tom Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Tom Caravela's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
+            quote: "“Magnates Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
             role: "Managing Partner, The Carolan Group",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -767,7 +767,7 @@ export const caseStudiesData = {
                 "Justin Janoska's journey into the field of autoimmune diseases and trauma was deeply personal. His mother suffered from incapacitating symptoms of Hashimoto’s for over two decades, and Justin himself faced neurodevelopmental disorders as a child.",
                 "These experiences fueled his passion to specialize in autoimmune diseases and trauma, leading him to found 'The Autoimmune Revolution.' His organization focuses on helping women battling conditions like Hashimoto’s, Psoriasis, Lupus, Inflammatory Bowel Disease, Multiple Sclerosis, PCOS, infertility, anxiety, eating disorders, and trauma.",
                 "Justin and his team go beyond surface-level interventions, ensuring that clients are actively engaged in their healing journey. They take full responsibility for aiding their patients to achieve and maintain results, offering support in ways that modern psychiatry and psychotherapy often overlook.",
-                "Seeking to enhance his brand and social media credibility, Justin approached Mogul Press with goals to become a contributor to major websites and secure interviews on well-known TV shows.",
+                "Seeking to enhance his brand and social media credibility, Justin approached Magnates Press with goals to become a contributor to major websites and secure interviews on well-known TV shows.",
             ],
         },
         process: {
@@ -812,7 +812,7 @@ export const caseStudiesData = {
             subtitle: "Justin's Testimonial",
             title: "What Justin Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Justin Janoska's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
+            quote: "“Magnates Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
             role: "Founder, The Autoimmune Revolution",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -883,7 +883,7 @@ export const caseStudiesData = {
             subtitle: "Makeba's Testimonial",
             title: "What Makeba Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Makeba White Chanay's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
+            quote: "“Magnates Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
             role: "CEO, B1 Ventures & Holdings",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -907,7 +907,7 @@ export const caseStudiesData = {
                 "Manuel Santiago's journey into trading began with a pivotal conversation with a senior officer, who advised him to invest his money in the stock market. Coming from a single-parent household without generational wealth, and with a modest income as a Marine Corps Officer, Manuel aspired to achieve financial freedom and enjoy life's luxuries.",
                 "Determined to succeed, Manuel dedicated himself to learning about trading and investment. He spent countless hours reading books by renowned investors, watching educational videos, and absorbing any information that could enhance his trading skills.",
                 "His efforts paid off as he became a successful trader and built a significant following on Instagram, where he shares daily market insights and trading advice. As both an influencer and active Marine Officer, Manuel strives to be a role model for the younger generation, demonstrating that financial freedom is attainable through discipline and hard work.",
-                "Seeking to further elevate his brand and social media credibility, Manuel approached Mogul Press to enhance his online presence and establish himself as a leading expert in the trading community.",
+                "Seeking to further elevate his brand and social media credibility, Manuel approached Magnates Press to enhance his online presence and establish himself as a leading expert in the trading community.",
             ],
         },
         process: {
@@ -954,7 +954,7 @@ export const caseStudiesData = {
             subtitle: "Manuel's Testimonial",
             title: "What Manuel Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Manuel Santiago's profile and credibility.",
-            quote: "“I'm quite pleased with the exposure. If you are thinking about hiring Mogul Press, I strongly advise you to do so.”",
+            quote: "“I'm quite pleased with the exposure. If you are thinking about hiring Magnates Press, I strongly advise you to do so.”",
             role: "Content Creator, Influencer, and CEO of Manuelsofficial Consulting",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -981,7 +981,7 @@ export const caseStudiesData = {
                 "Through dedication and strategic marketing, Chuong grew his e-commerce business, expanding his product range and reaching a wider audience.",
                 "As his business flourished, he diversified his investments into real estate, acquiring properties that aligned with his investment goals.",
                 "Chuong's ability to balance both e-commerce and real estate ventures has been a testament to his entrepreneurial spirit and strategic thinking.",
-                "Seeking to further enhance his brand and online presence, Chuong partnered with Mogul Press to leverage their expertise in media placements and personal branding.",
+                "Seeking to further enhance his brand and online presence, Chuong partnered with Magnates Press to leverage their expertise in media placements and personal branding.",
             ],
         },
         process: {
@@ -1028,7 +1028,7 @@ export const caseStudiesData = {
             subtitle: "Chuong's Testimonial",
             title: "What Chuong Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Chuong Pham's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
+            quote: "“Magnates Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
             role: "E-commerce Entrepreneur & Real Estate Investor",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -1099,7 +1099,7 @@ export const caseStudiesData = {
             subtitle: "The Shofs' Testimonial",
             title: "What The Shofs Have To Say",
             intro: "Discover how strategic storytelling and media placement elevated Seyi and Abisola Shof's profile and credibility.",
-            quote: "“Everyone has a story, regardless of what profession you are in, and you’ve got to tell that story, so thanks to Mogul Press for telling our story and getting us published in several publications.”",
+            quote: "“Everyone has a story, regardless of what profession you are in, and you’ve got to tell that story, so thanks to Magnates Press for telling our story and getting us published in several publications.”",
             role: "Digital Creators & Founders of The Shofs",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -1176,7 +1176,7 @@ export const caseStudiesData = {
             subtitle: "Jonathan's Testimonial",
             title: "What Jonathan Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Jonathan Opp's profile and credibility.",
-            quote: "“Thank you Mogul Press for helping me. They got articles published for me that are supporting my brand and business. I really enjoyed working with them. Thank you so much Mogul Press.”",
+            quote: "“Thank you Magnates Press for helping me. They got articles published for me that are supporting my brand and business. I really enjoyed working with them. Thank you so much Magnates Press.”",
             role: "Successful Influencer and Advocate",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1202,7 +1202,7 @@ export const caseStudiesData = {
                 "After working in finance for several years after graduating college, Sean realized he possessed an entrepreneurial spark, paving the way for something far greater. Thus, Sean Li and his partners founded CaterCow in 2012. CaterCow has found lasting success by partnering with the best restaurants and providing exceptional customer service.",
                 "CaterCow sure knows how to pay back to the community. During the COVID-19 crisis, the company initiated its ‘CaterCow Cares’ services, which provided free food to healthcare workers through fundraisers.",
                 "CaterCow also introduced the ‘group ordering’ feature to promote practicing hygiene with COVID-19 on the rise and also give individual employees more meal choices. The feature allowed each group employee (or person) to choose their own meal, with the food being delivered in individually packaged containers.",
-                "Sean Li came to Mogul Press because he wanted to boost his brand and his social media credibility and authority. He also aimed to become a contributor to major websites."
+                "Sean Li came to Magnates Press because he wanted to boost his brand and his social media credibility and authority. He also aimed to become a contributor to major websites."
             ]
         },
         process: {
@@ -1249,7 +1249,7 @@ export const caseStudiesData = {
             subtitle: "Sean's Testimonial",
             title: "What Sean Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Sean Li's profile and credibility.",
-            quote: "“Thank you Mogul Press for helping me. They got articles published for me that are supporting my brand and business. I really enjoyed working with them. Thank you so much Mogul Press.”",
+            quote: "“Thank you Magnates Press for helping me. They got articles published for me that are supporting my brand and business. I really enjoyed working with them. Thank you so much Magnates Press.”",
             role: "Co-Founder & CEO of CaterCow",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1319,7 +1319,7 @@ export const caseStudiesData = {
             subtitle: "Alexander's Testimonial",
             title: "What Alexander Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Alexander Komaritsyn's profile and credibility.",
-            quote: "“I had a great time working with Mogul Press. They delivered what they promised within the given timeframe. Thank you so much.”",
+            quote: "“I had a great time working with Magnates Press. They delivered what they promised within the given timeframe. Thank you so much.”",
             role: "Entrepreneur with Expertise in IT, Marketing, and Business Development",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1389,7 +1389,7 @@ export const caseStudiesData = {
             subtitle: "Aariah's Testimonial",
             title: "What Aariah Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Aariah Woods' profile and credibility.",
-            quote: "“Thank you Mogul Press for helping me. They got articles published for me that are supporting my brand and business. I really enjoyed working with them. Thank you so much Mogul Press.”",
+            quote: "“Thank you Magnates Press for helping me. They got articles published for me that are supporting my brand and business. I really enjoyed working with them. Thank you so much Magnates Press.”",
             role: "Founder of Bellah Roze",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1458,7 +1458,7 @@ export const caseStudiesData = {
             subtitle: "Kristen's Testimonial",
             title: "What Kristen Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Kristen Terry's profile and credibility.",
-            quote: "“Mogul Press was very helpful in getting my business published in Yahoo, Bloomberg, Market Watch, Benzinga, and NASDAQ. I am very happy with the outcome and highly recommend.”",
+            quote: "“Magnates Press was very helpful in getting my business published in Yahoo, Bloomberg, Market Watch, Benzinga, and NASDAQ. I am very happy with the outcome and highly recommend.”",
             role: "Entertainer, Creative Director, Executive Producer, and Businesswoman",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1528,7 +1528,7 @@ export const caseStudiesData = {
             subtitle: "Cristina's Testimonial",
             title: "What Cristina Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Cristina Curp's profile and credibility.",
-            quote: "“Working with Mogul Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
+            quote: "“Working with Magnates Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
             role: "Founder of The Castaway Kitchen & Bestselling Author",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1600,7 +1600,7 @@ export const caseStudiesData = {
             subtitle: "Rahul's Testimonial",
             title: "What Rahul Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Rahul Maharaj's profile and credibility.",
-            quote: "“I worked with Mogul Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same.”",
+            quote: "“I worked with Magnates Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same.”",
             role: "Licensed Psychologist & Keynote Speaker",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1670,7 +1670,7 @@ export const caseStudiesData = {
             subtitle: "Dr. Darnyelle's Testimonial",
             title: "What Dr. Darnyelle Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Dr. Darnyelle Harmon's profile and credibility.",
-            quote: "“I worked with Mogul Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same.”",
+            quote: "“I worked with Magnates Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same.”",
             role: "CEO of Incredible One Enterprises & Business Growth Strategist",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1740,7 +1740,7 @@ export const caseStudiesData = {
             subtitle: "Michael's Testimonial",
             title: "What Michael Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Michael Ferrera's profile and credibility.",
-            quote: "“Working with Mogul Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
+            quote: "“Working with Magnates Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
             role: "Founder of Maestro Tech – Custom Clothing Company",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1810,7 +1810,7 @@ export const caseStudiesData = {
             subtitle: "Kendra's Testimonial",
             title: "What Kendra Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Kendra Conyers's profile and credibility.",
-            quote: "“I worked with Mogul Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same.”",
+            quote: "“I worked with Magnates Press and I highly recommend them. They helped me get articles into the popular press about my work and really helped me to elevate my brand. I do strongly recommend them to anyone wanting to do the same.”",
             role: "Real Estate Mogul & Founder of Kendra Conyers & Associates",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -1884,7 +1884,7 @@ export const caseStudiesData = {
             subtitle: "Melanie's Testimonial",
             title: "What Melanie Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Melanie Avalon's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
+            quote: "“Magnates Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
             role: "SAG-AFTRA Award-Winning Actress, Best-Selling Author & Biohacking Advocate",
             videoUrl: "https://www.youtube.com/embed/example", // Optional
         },
@@ -1955,7 +1955,7 @@ export const caseStudiesData = {
             subtitle: "Usman's Testimonial",
             title: "What Usman Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Usman Ashraf's profile and credibility.",
-            quote: "“Thank you Mogul Press for getting me verified on Instagram. Had a great time working with you guys and it was a great experience.”",
+            quote: "“Thank you Magnates Press for getting me verified on Instagram. Had a great time working with you guys and it was a great experience.”",
             role: "Self-Made Options Trader & Founder of OptionHub",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2024,7 +2024,7 @@ export const caseStudiesData = {
             subtitle: "Wave's Testimonial",
             title: "What Wave Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Wave Wyld's profile and credibility.",
-            quote: "“Working with Mogul Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
+            quote: "“Working with Magnates Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
             role: "TikTok Coach & Entrepreneur",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2094,7 +2094,7 @@ export const caseStudiesData = {
             subtitle: "Marguerite's Testimonial",
             title: "What Marguerite Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Marguerite Imbert's profile and credibility.",
-            quote: "“I recently authored a book in regard to our methodology and to promote that, I worked with Mogul Press who did a fantastic job of getting me publicity across some pretty high-end publications as well as some spots on TV. I was ultimately able to convey what we do, and how it works and promote my book.”",
+            quote: "“I recently authored a book in regard to our methodology and to promote that, I worked with Magnates Press who did a fantastic job of getting me publicity across some pretty high-end publications as well as some spots on TV. I was ultimately able to convey what we do, and how it works and promote my book.”",
             role: "Writer & Narrative Designer",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2163,7 +2163,7 @@ export const caseStudiesData = {
             subtitle: "Dr. Liles's Testimonial",
             title: "What Dr. Liles Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Dr. Liles's profile and credibility.",
-            quote: "“Working with Mogul Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
+            quote: "“Working with Magnates Press was a game-changer for me. They helped me share my story and reach a wider audience, positioning me as a trusted authority in my field.”",
             role: "Founder of Mint Dental & TV Personality",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2233,7 +2233,7 @@ export const caseStudiesData = {
             subtitle: "Falesha's Testimonial",
             title: "What Falesha Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Falesha Raquel's profile and credibility.",
-            quote: "“I am extremely pleased with the results. Mogul Press helped me gain the visibility I needed and positioned me as a leader in my industry.”",
+            quote: "“I am extremely pleased with the results. Magnates Press helped me gain the visibility I needed and positioned me as a leader in my industry.”",
             role: "Serial Entrepreneur & Multi-Talented Businesswoman",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2304,7 +2304,7 @@ export const caseStudiesData = {
             subtitle: "Amanda's Testimonial",
             title: "What Amanda Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Amanda Biccum's profile and credibility.",
-            quote: "“Thank you Mogul Press for doing such a great job. The entire process was very easy and smooth. I definitely recommend working with them.”",
+            quote: "“Thank you Magnates Press for doing such a great job. The entire process was very easy and smooth. I definitely recommend working with them.”",
             role: "Leading Female Intimacy Coach",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2374,7 +2374,7 @@ export const caseStudiesData = {
             subtitle: "Stephanie's Testimonial",
             title: "What Stephanie Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Stephanie Gonzalez's profile and credibility.",
-            quote: "“I want to give a huge shoutout to Mogul Press for all the PR work that they did for me. My experience with them went very well. They were very professional, and very quick with what they had to deliver. I highly recommend anybody who needs any PR work to definitely go to them.”",
+            quote: "“I want to give a huge shoutout to Magnates Press for all the PR work that they did for me. My experience with them went very well. They were very professional, and very quick with what they had to deliver. I highly recommend anybody who needs any PR work to definitely go to them.”",
             role: "Plus-Size Fashion Model & Social Media Influencer",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2444,7 +2444,7 @@ export const caseStudiesData = {
             subtitle: "Kendrick's Testimonial",
             title: "What Kendrick Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Kendrick Tilghman's profile and credibility.",
-            quote: "“I want to give a huge shoutout to Mogul Press for all the PR work that they did for me. My experience with them went very well. They were very professional, and very quick with what they had to deliver. I highly recommend anybody who needs any PR work to definitely go to them.”",
+            quote: "“I want to give a huge shoutout to Magnates Press for all the PR work that they did for me. My experience with them went very well. They were very professional, and very quick with what they had to deliver. I highly recommend anybody who needs any PR work to definitely go to them.”",
             role: "STEM DJ Based in Baltimore",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2655,7 +2655,7 @@ export const caseStudiesData = {
             subtitle: "Parham's Testimonial",
             title: "What Parham Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Parham Yashar's profile and credibility.",
-            quote: "“I want to give a huge shoutout to Mogul Press for all the PR work that they did for me. My experience with them went very well. They were very professional, and very quick with what they had to deliver. I highly recommend anybody who needs any PR work to definitely go to them.”",
+            quote: "“I want to give a huge shoutout to Magnates Press for all the PR work that they did for me. My experience with them went very well. They were very professional, and very quick with what they had to deliver. I highly recommend anybody who needs any PR work to definitely go to them.”",
             role: "Iranian-American Neurosurgeon",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2724,7 +2724,7 @@ export const caseStudiesData = {
             subtitle: "Kumail's Testimonial",
             title: "What Kumail Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Kumail Hussain's profile and credibility.",
-            quote: "“Mogul Press explained the process very clearly. It was my first time ever working with a PR agency and it was a very simple and transparent process with them. They delivered the results they said, on time. Thank you Mogul Press for really helping me to grow my personal brand.”",
+            quote: "“Magnates Press explained the process very clearly. It was my first time ever working with a PR agency and it was a very simple and transparent process with them. They delivered the results they said, on time. Thank you Magnates Press for really helping me to grow my personal brand.”",
             role: "Medical Student | Mental Health Advocate | Content Creator",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2795,7 +2795,7 @@ export const caseStudiesData = {
             subtitle: "Joshua's Testimonial",
             title: "What Joshua Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Joshua Jones's profile and credibility.",
-            quote: "“Mogul Press had provided me with the tools and resources to take my business to the next level. Their team was professional, responsive, and truly understood my vision.”",
+            quote: "“Magnates Press had provided me with the tools and resources to take my business to the next level. Their team was professional, responsive, and truly understood my vision.”",
             role: "Founder & Principal Designer at JJones Design Co.",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2864,7 +2864,7 @@ export const caseStudiesData = {
             subtitle: "Anne's Testimonial",
             title: "What Anne Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Anne Van Leynseele's profile and credibility.",
-            quote: "“I cannot thank Mogul Press enough for the support and excellent first round PR they did to promote me and my book. My experience working with them was terrific. They delivered exactly what they promised. I can wholeheartedly recommend Mogul Press as a first experience with a PR firm.”",
+            quote: "“I cannot thank Magnates Press enough for the support and excellent first round PR they did to promote me and my book. My experience working with them was terrific. They delivered exactly what they promised. I can wholeheartedly recommend Magnates Press as a first experience with a PR firm.”",
             role: "Founder & Principal Attorney at 7 Point Law",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -2938,7 +2938,7 @@ export const caseStudiesData = {
             subtitle: "Henry's Testimonial",
             title: "What Henry Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Henry Coffie's profile and credibility.",
-            quote: "“Mogul Press had provided me with the tools and resources to take my business to the next level. Their team was professional, responsive, and truly understood my vision.”",
+            quote: "“Magnates Press had provided me with the tools and resources to take my business to the next level. Their team was professional, responsive, and truly understood my vision.”",
             role: "Founder & Principal Designer at Henry Coffie Menswear",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -3008,7 +3008,7 @@ export const caseStudiesData = {
             subtitle: "Shoaib's Testimonial",
             title: "What Shoaib Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Shoaib Ghauri's profile and credibility.",
-            quote: "“Mogul Press successfully delivered the promised services. Press features on major media publications such as Yahoo News, International Business Times, LAWeekly, TechTimes, HauteLiving, Influencive, and many more.”",
+            quote: "“Magnates Press successfully delivered the promised services. Press features on major media publications such as Yahoo News, International Business Times, LAWeekly, TechTimes, HauteLiving, Influencive, and many more.”",
             role: "Founder of Come Learn Forex",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -3077,7 +3077,7 @@ export const caseStudiesData = {
             subtitle: "Dr. Lisa Collins's Testimonial",
             title: "What Dr. Lisa Collins Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Dr. Lisa Collins's profile and credibility.",
-            quote: "“Mogul Press successfully delivered the promised services. Press features on major media publications such as The Chicago Weekly, Benzinga, The Hustler’s Digest, and more.”",
+            quote: "“Magnates Press successfully delivered the promised services. Press features on major media publications such as The Chicago Weekly, Benzinga, The Hustler’s Digest, and more.”",
             role: "Director of Education Through Engagement",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }
@@ -3216,7 +3216,7 @@ export const caseStudiesData = {
             subtitle: "Alexis's Testimonial",
             title: "What Alexis Has To Say",
             intro: "Discover how strategic storytelling and media placement elevated Alexis Fedor's profile and credibility.",
-            quote: "“Mogul Press successfully delivered the promised services. Press features on major media publications such as LA Progressive, The Chicago Weekly, Bulletin Feed, and NY Daily Trends.”",
+            quote: "“Magnates Press successfully delivered the promised services. Press features on major media publications such as LA Progressive, The Chicago Weekly, Bulletin Feed, and NY Daily Trends.”",
             role: "Founder of Artists In Business",
             videoUrl: "https://www.youtube.com/embed/example" // Replace with actual video URL if available
         }

@@ -101,7 +101,7 @@ const ContactForm = () => {
                     <div className="md:col-span-2 flex items-start space-x-3 text-xs sm:text-sm text-gray-500">
                         <input type="checkbox" id="agree" checked={agreed} onChange={() => setAgreed(!agreed)} className="mt-1 h-4 w-4 border-gray-300 rounded text-[#D1A82E] focus:ring-[#D1A82E] flex-shrink-0"/>
                         <label htmlFor="agree">
-                            I agree to <a href="#" className="text-[#D1A82E] underline">Privacy Policy</a> and <a href="#" className="text-[#D1A82E] underline">Terms & Conditions</a> provided by the Mogul Press LLC. By providing my phone number, I agree to receive text messages from the business. I agree to receive marketing messaging from Mogul Press LLC at the phone number provided above. I understand I will receive 2 messages a month, data rates may apply, reply STOP to opt out
+                            I agree to <a href="#" className="text-[#D1A82E] underline">Privacy Policy</a> and <a href="#" className="text-[#D1A82E] underline">Terms & Conditions</a> provided by the Magnates Press LLC. By providing my phone number, I agree to receive text messages from the business. I agree to receive marketing messaging from Magnates Press LLC at the phone number provided above. I understand I will receive 2 messages a month, data rates may apply, reply STOP to opt out
                         </label>
                     </div>
                     <div className="md:col-span-2 text-center mt-4">

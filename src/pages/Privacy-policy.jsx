@@ -31,11 +31,11 @@ export default function App() {
             // A placeholder is used here. For the real background, you'd use the actual image URL.
         ></div>
         <div className="relative z-10">
-          <p className="text-yellow-500 text-xl mb-2">Mogul Press</p>
+          <p className="text-yellow-500 text-xl mb-2">Magnates Press</p>
           <h1 className="text-5xl font-bold mb-4">Privacy Policy</h1>
           <p className="max-w-3xl mx-auto text-gray-300">
             One of our main priorities is the privacy of our visitors. This Privacy Policy document contains
-            types of information that is collected and recorded by Mogul Press and how we use it.
+            types of information that is collected and recorded by Magnates Press and how we use it.
           </p>
         </div>
       </header>
@@ -45,7 +45,7 @@ export default function App() {
         <PolicySection title="Privacy Policy">
             <h3 className="text-2xl font-bold text-gray-800 mb-3">General information</h3>
             <p>
-                One of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Mogul Press and how we use it.
+                One of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Magnates Press and how we use it.
             </p>
             <p>
                 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us on <a href="mailto:contact@mogulpress.com" className="text-yellow-600 hover:underline">contact@mogulpress.com</a>
@@ -54,7 +54,7 @@ export default function App() {
 
         <PolicySection title="Log files">
           <p>
-            Mogul Press follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include:
+            Magnates Press follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include:
           </p>
           <ul className="list-none space-y-2 my-4">
             <ListItem>Internet protocol (IP) addresses</ListItem>
@@ -65,11 +65,11 @@ export default function App() {
         </PolicySection>
 
         <PolicySection title="Privacy policies">
-            <p>You may consult this list to find the Privacy Policy for each of the advertising partners of Mogul Press.</p>
+            <p>You may consult this list to find the Privacy Policy for each of the advertising partners of Magnates Press.</p>
             <p>
-            Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Mogul Press, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+            Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Magnates Press, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
             </p>
-            <p>Note that Mogul Press has no access to or control over these cookies that are used by third-party advertisers.</p>
+            <p>Note that Magnates Press has no access to or control over these cookies that are used by third-party advertisers.</p>
         </PolicySection>
         
         <PolicySection title="Third party policies">
@@ -83,7 +83,7 @@ export default function App() {
 
         <PolicySection title="Online privacy">
             <p>
-            This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Mogul Press. This policy is not applicable to any information collected offline or via channels other than this website.
+            This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Magnates Press. This policy is not applicable to any information collected offline or via channels other than this website.
             </p>
             <p>
             By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.

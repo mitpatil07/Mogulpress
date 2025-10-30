@@ -114,13 +114,13 @@ const StatsSection = () => {
         <section className="bg-white py-16 md:py-8 lg:py-16">
             <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
                 <h3 className="text-sm md:text-base font-semibold text-yellow-600 tracking-wide mb-4">
-                    WHY Mogul Press?
+                    WHY Magnates Press?
                 </h3>
                 <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-black mb-6 leading-tight">
                     What Makes us Different
                 </h2>
                 <p className="max-w-4xl mx-auto text-base md:text-lg text-gray-700 mb-16 md:mb-20 leading-relaxed px-4">
-                    Mogul Press is an award-winning public relations and communications agency that specializes in{" "}
+                    Magnates Press is an award-winning public relations and communications agency that specializes in{" "}
                     <span className="font-bold text-black">media placements</span>, personal branding, and marketing strategy.
                     We work with top entrepreneurs, influencers, and established companies to grow their media presence,
                     build strong brand credibility, and boost their business.
@@ -213,7 +213,7 @@ const FeaturesSection = () => {
         <section className="bg-white py-20">
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="text-center mb-12">
-                    <h3 className="text-xl font-bold text-[#DDB32E] tracking-widest mb-2">WHY Mogul Press?</h3>
+                    <h3 className="text-xl font-bold text-[#DDB32E] tracking-widest mb-2">WHY Magnates Press?</h3>
                     <h2 className="text-5xl md:text-5xl font-extrabold text-black">Our Time Together Will Reveal How You Can:</h2>
                 </div>
                 <div className="max-w-6xl mx-auto space-y-8">
@@ -264,28 +264,28 @@ const TestimonialsSection = () => {
         {
             name: "Arjun Dhingra",
             title: "LEADING MORTGAGE AND REAL ESTATE CONSULTANT",
-            quote: "I connected with Mogul Press to do a full-fledged PR campaign for me, and they completely exceeded my expectations, they got me featured in several amazing publications such as Bloomberg, Yahoo Business, and even membership in the Forbes Council. They really over-delivered, and several articles were great exposure pieces for me. Now I have a very strong and great media kit. I will highly recommend these guys to anybody. Highly recommended and highly appreciated.",
+            quote: "I connected with Magnates Press to do a full-fledged PR campaign for me, and they completely exceeded my expectations, they got me featured in several amazing publications such as Bloomberg, Yahoo Business, and even membership in the Forbes Council. They really over-delivered, and several articles were great exposure pieces for me. Now I have a very strong and great media kit. I will highly recommend these guys to anybody. Highly recommended and highly appreciated.",
             videoUrl: "https://www.youtube.com/embed/aO4LJs3gwxM",
             videoId: "aO4LJs3gwxM"
         },
         {
             name: "Jeff Eiben",
             title: "FOUNDER RIVER POINT TECHNOLOGY",
-            quote: "I want to give a big shoutout to Mogul Press. They helped me to get featured on Yahoo Finance, Bloomberg, International Business Time (Singapore), and a bunch of amazing news outlets, so my experience has been amazing. They over-delivered what they promised, and also, the team has been excellent.",
+            quote: "I want to give a big shoutout to Magnates Press. They helped me to get featured on Yahoo Finance, Bloomberg, International Business Time (Singapore), and a bunch of amazing news outlets, so my experience has been amazing. They over-delivered what they promised, and also, the team has been excellent.",
             videoUrl: "https://www.youtube.com/embed/F2C0btRktY4",
             videoId: "F2C0btRktY4"
         },
         {
             name: "Jeff Eiben",
             title: "FOUNDER RIVER POINT TECHNOLOGY",
-            quote: "I recently authored a book in regard to our methodology and to promote that, I worked with Mogul Press who did a fantastic job of getting me publicity across some pretty high-end publications as well as some spots on TV. I was ultimately able to convey what we do, and how it works and promote my book. I am not typically a self-promoter or leverage self social media but Mogul Press helped with the whole process. I highly recommend them. Feel free to reach out if you want to discuss it further but Mogul Press did an awesome job for me and I thank them for that.",
+            quote: "I recently authored a book in regard to our methodology and to promote that, I worked with Magnates Press who did a fantastic job of getting me publicity across some pretty high-end publications as well as some spots on TV. I was ultimately able to convey what we do, and how it works and promote my book. I am not typically a self-promoter or leverage self social media but Magnates Press helped with the whole process. I highly recommend them. Feel free to reach out if you want to discuss it further but Magnates Press did an awesome job for me and I thank them for that.",
             videoUrl: "https://www.youtube.com/embed/fy4PKA3cdW4",
             videoId: "fy4PKA3cdW4"
         },
         {
             name: "Zeroed-In Consulting",
             title: "LIFESTYLE AND SOCIAL MEDIA CONTENT CREATOR",
-            quote: "As we started our PR journey, we didn't really know where to start. So coming across Mogul Press was great. They did a great job of helping us select a package of reasonably priced but high-impact publications and where we had some concerns about finding the right publications for our business being a bit more specialized. They did a great job of overdelivering and getting us on publications such as Yahoo Finance, and Bloomberg. Thank you so much for helping us along the way and giving us a great PR experience, we would highly recommend it.",
+            quote: "As we started our PR journey, we didn't really know where to start. So coming across Magnates Press was great. They did a great job of helping us select a package of reasonably priced but high-impact publications and where we had some concerns about finding the right publications for our business being a bit more specialized. They did a great job of overdelivering and getting us on publications such as Yahoo Finance, and Bloomberg. Thank you so much for helping us along the way and giving us a great PR experience, we would highly recommend it.",
             videoUrl: "https://www.youtube.com/embed/F2C0btRktY4",
             videoId: "F2C0btRktY4"
         }
@@ -434,7 +434,7 @@ import post3 from '../assets/img3.png'
 
 const BlogSection = () => {
     const posts = [
-        { date: "APRIL 18, 2024", category: "PRESS RELEASE", title: "Mogul Press: Deep Dive Into The ROI Of Press Release Distribution Services", img: post1 },
+        { date: "APRIL 18, 2024", category: "PRESS RELEASE", title: "Magnates Press: Deep Dive Into The ROI Of Press Release Distribution Services", img: post1 },
         { date: "MARCH 8, 2024", category: "PUBLIC RELATIONS", title: "5 Innovative Public Relations Firms' Strategies For Tech Startups", img: post2 },
         { date: "JANUARY 15, 2024", category: "MARKETING", title: "Elevate Your Business: Marketing Tactics For Small Businesses", img: post3 },
     ];
@@ -479,13 +479,13 @@ const MissionSection = () => {
                         <svg className="h-10 w-10 text-yellow-600" fill="currentColor" viewBox="0 0 20 20">
                             <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                         </svg>
-                        Behind Mogul Press
+                        Behind Magnates Press
                     </h2>
                 </div>
 
                 <div className="max-w-5xl mx-auto text-center space-y-6 text-gray-800 text-lg leading-relaxed mb-16">
                     <p>
-                        <span className="font-bold text-black">Mogul Press</span> is a PR firm that helps companies and individuals build visibility and credibility through media placements. As one of the leading PR agencies in the industry, our team has managed PR campaigns and media coverage for more than 1,000 clients.
+                        <span className="font-bold text-black">Magnates Press</span> is a PR firm that helps companies and individuals build visibility and credibility through media placements. As one of the leading PR agencies in the industry, our team has managed PR campaigns and media coverage for more than 1,000 clients.
                     </p>
 
                     <p>
