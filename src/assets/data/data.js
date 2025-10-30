@@ -27,7 +27,7 @@ export const caseStudiesData = {
         strategy: ["Present Arjun's success story from a unique angle...", "Improve Google search presence for Arjun and his company", "Boost social media credibility and authority...", "Build the foundation to make Arjun Dhingra a contributor...", "Generate enough press so that it could be used as leverage..."],
         results: ["Got Arjun featured in several publications, including Benzinga, The Inscriber Magazine, Yahoo Finance, LA Progressive, and others", "Created compelling content and strategically placed it in major media outlets...", "Helped Arjun Dhingra to become a contributor to the Forbes Business Council", "Boosted press exposure and online presence tremendously...", "Attained robust media coverage and helped him become a contributor on these websites...", "We got him in an interview on Las Vegas Now, CBS46 Atlanta Plugged In..."],
         publications: { subtitle: "Featured On", title: "Notable Publications Featuring", imageUrl: "https://mogulpress.com/storage/2023/10/Arjun-Dhingra.jpg" },
-        testimonial: { subtitle: "Arjun's Testimonial", title: "What Arjun Has To Say", intro: "Discover how strategic storytelling and media placement elevated Arjun Dhingra's profile and credibility.", quote: "\"I connected with Mogul Press to do a full-fledged PR campaign for me, and they completely exceeded my expectations...\"", role: "Leading Mortgage and Real Estate Consultant", videoUrl: "https://www.youtube.com/embed/ScnC5i_434A" }
+        testimonial: { subtitle: "Arjun's Testimonial", title: "What Arjun Has To Say", intro: "Discover how strategic storytelling and media placement elevated Arjun Dhingra's profile and credibility.", quote: "\"I connected with Mogul Press to do a full-fledged PR campaign for me, and they completely exceeded my expectations...\"", role: "Leading Mortgage and Real Estate Consultant", videoUrl: "https://www.youtube.com/watch?v=aO4LJs3gwxM" }
     },
     walidChaya: {
         id: "walidChaya",
@@ -40,7 +40,7 @@ export const caseStudiesData = {
         strategy: ["Showcase his award-winning short films to establish credibility.", "Secure interviews with top-tier entertainment journalists.", "Position him as a thought leader on multicultural storytelling.", "Create a professional electronic press kit (EPK).", "Leverage social media to engage with a global audience."],
         results: ["Featured in Variety and The Hollywood Reporter.", "Secured a panelist spot at a major film festival.", "Increased his social media following by 150%.", "Received multiple offers for representation.", "Successfully funded his upcoming feature film through new connections."],
         publications: { subtitle: "As Seen In", title: "Notable Publications Featuring", imageUrl: "https://mogulpress.com/storage/2023/10/Walid-Chaya-1024x684.jpg" },
-        testimonial: { subtitle: "Walid's Words", title: "What Walid Has To Say", intro: "Learn how our tailored PR strategy amplified Walid Chaya's voice in the film industry.", quote: "\"The team at Mogul Press understood my vision perfectly. Their strategic approach opened doors I never thought possible. They are true partners in an artist's journey.\"", role: "Award-Winning Director & Actor", videoUrl: "https://www.youtube.com/embed/ScnC5i_434A" }
+        testimonial: { subtitle: "Walid's Words", title: "What Walid Has To Say", intro: "Learn how our tailored PR strategy amplified Walid Chaya's voice in the film industry.", quote: "\"The team at Mogul Press understood my vision perfectly. Their strategic approach opened doors I never thought possible. They are true partners in an artist's journey.\"", role: "Award-Winning Director & Actor", videoUrl: "https://www.youtube.com/watch?v=cAQo35So-Sc" }
     },
     justinCao: {
         id: "justinCao",
@@ -109,7 +109,7 @@ export const caseStudiesData = {
             intro: "Discover how strategic storytelling and media placement elevated Justin Cao's profile and credibility.",
             quote: "“I want to give a big shoutout to Mogul Press. They helped me to get featured on Yahoo Finance, Bloomberg, International Business Time (Singapore), and a bunch of amazing news outlets, so my experience has been amazing. They over-delivered what they promised, and also, the team has been excellent.”",
             role: "Amazon FBA Mentor",
-            videoUrl: "https://www.youtube.com/embed/example", // optional
+            videoUrl: "https://www.youtube.com/watch?v=F2C0btRktY4", // optional
         },
     },
     antonioUnderwood: {
@@ -178,7 +178,7 @@ export const caseStudiesData = {
             intro: "Discover how strategic storytelling and media placement elevated Antonio Underwood's profile and credibility.",
             quote: "“Mogul Press captured the true essence of me and my company. If you are looking to find consistency at a good price and people who can capture the right essence right away, then I truly recommend Mogul Press.”",
             role: "Award-Winning Music Scholar",
-            videoUrl: "https://www.youtube.com/embed/example", // optional video link
+            videoUrl: "https://www.youtube.com/watch?v=BC2463slhL8", // optional video link
         },
     },
     templeNaylor: {
@@ -320,7 +320,7 @@ export const caseStudiesData = {
             intro: "Discover how strategic storytelling and media placement elevated Zeroed-In’s profile and credibility.",
             quote: "“As we started our PR journey, we didn't really know where to start. So coming across Mogul Press was great. They were transparent in giving us a package of reasonably priced but high-impact publications. For those who are concerned about finding the right publications for our business being a bit overwhelming, Mogul did a great job overdelivering and getting us on publications such as Yahoo Finance and Bloomberg. Thank you so much for making this process seamless. Based on our experience, we would highly recommend it.”",
             role: "Consulting Company",
-            videoUrl: "https://www.youtube.com/embed/example", // optional
+            videoUrl: "https://www.youtube.com/watch?v=ZeIbys_-FNk", // optional
         },
     },
     laurieMintz: {
@@ -1023,78 +1023,6 @@ export const caseStudiesData = {
             subtitle: "Featured On",
             title: "Notable Publications Featuring Chuong Pham",
             imageUrl: "https://mogulpress.com/storage/2023/10/Chunog-Charlie-1536x1026.jpg", // Replace with actual image URL
-        },
-        testimonial: {
-            subtitle: "Chuong's Testimonial",
-            title: "What Chuong Has To Say",
-            intro: "Discover how strategic storytelling and media placement elevated Chuong Pham's profile and credibility.",
-            quote: "“Mogul Press provided exceptional service, securing media placements that significantly enhanced my brand's visibility and credibility.”",
-            role: "E-commerce Entrepreneur & Real Estate Investor",
-            videoUrl: "https://www.youtube.com/embed/example", // Optional
-        },
-    },
-    chuongPham: {
-        id: "chuongPham",
-        name: "Chuong Pham",
-        card: {
-            title: "E-commerce Entrepreneur & Real Estate Investor",
-            imageUrl: "https://example.com/chuong-pham.jpg", // Replace with actual image URL
-        },
-        hero: {
-            subtitle: "CASE STUDY",
-            backgroundImage: "https://example.com/chuong-hero.jpg", // Optional
-            intro: "Chuong Pham is an e-commerce entrepreneur and real estate investor who has built a successful online business and diversified his investments in the real estate sector.",
-        },
-        overview: {
-            subtitle: "A Brief Background",
-            title: "Overview",
-            paragraphs: [
-                "Chuong Pham's journey into entrepreneurship began with a passion for e-commerce. He started his online store with a focus on providing quality products and excellent customer service.",
-                "Through dedication and strategic marketing, Chuong grew his e-commerce business, expanding his product range and reaching a wider audience.",
-                "As his business flourished, he diversified his investments into real estate, acquiring properties that aligned with his investment goals.",
-                "Chuong's ability to balance both e-commerce and real estate ventures has been a testament to his entrepreneurial spirit and strategic thinking.",
-                "Seeking to further enhance his brand and online presence, Chuong partnered with Mogul Press to leverage their expertise in media placements and personal branding.",
-            ],
-        },
-        process: {
-            subtitle: "How We Do It?",
-            title: "Our Process",
-            intro: "Empowering Chuong's Digital Journey: Guided him toward amplified online influence through tailored strategies and impactful content.",
-            steps: [{
-                    title: "CONSULTATION",
-                    description: "Held an initial consultation with Chuong Pham to identify his goals and discuss the PR strategy for the upcoming months.",
-                    icon: "consultation",
-                },
-                {
-                    title: "ROADMAP TO SUCCESS",
-                    description: "Developed a customized roadmap outlining publication targets, timelines, and strategies to elevate Chuong's digital authority.",
-                    icon: "roadmap",
-                },
-                {
-                    title: "GET TO WORK",
-                    description: "Crafted compelling content based on insights from a detailed questionnaire and secured features in agreed-upon publications.",
-                    icon: "work",
-                },
-            ],
-        },
-        challenge: "Chuong Pham, a successful e-commerce entrepreneur and real estate investor, wanted to further boost his brand and social media credibility and authority. The challenge was to craft a unique angle for Chuong’s story and help him get press features in different significant publications.",
-        strategy: [
-            "Present Chuong Pham’s success story from a unique angle and help him gain worldwide recognition.",
-            "Improve Google search presence for Chuong Pham and his businesses.",
-            "Boost Chuong Pham's social media credibility and authority by positioning him as an expert in e-commerce and real estate.",
-            "Generate enough press so that it could later be used as leverage to get on even bigger media outlets if needed.",
-            "Attain enough media coverage to meet the eligibility criteria for social media verification and get him interviews on famous TV shows.",
-        ],
-        results: [
-            "Secured features for Chuong Pham in reputable publications, including Yahoo Finance, Bloomberg, and Nasdaq.",
-            "Created compelling content and strategically placed it on major media outlets to position Chuong Pham as an expert in his fields.",
-            "Boosted press exposure and brand credibility tremendously.",
-            "Attained robust media coverage, which enhanced his online presence and authenticated his brand name.",
-        ],
-        publications: {
-            subtitle: "Featured On",
-            title: "Notable Publications Featuring Chuong Pham",
-            imageUrl: "https://example.com/chuong-featured-logos.png", // Replace with actual image URL
         },
         testimonial: {
             subtitle: "Chuong's Testimonial",
