@@ -117,25 +117,34 @@ const ContactForm = () => {
 
 const BookingSection = () => {
     return (
-        <section className="bg-black text-white py-16 md:py-20 px-4 sm:px-6 lg:px-8">
-            <div className="container mx-auto text-center">
-                <p className="text-base md:text-sm font-bold text-[#D1A82E] uppercase tracking-widest mb-4" style={{fontFamily: "'Montserrat', sans-serif"}}>
-                    Contact Us
-                </p>
-                <h2 className="text-3xl md:text-5xl font-extrabold mb-12" style={{fontFamily: "'Montserrat', sans-serif"}}>
-                    Book A Call Below
-                </h2>
-                <div className="max-w-4xl mx-auto bg-white p-6 sm:p-12 text-gray-700 relative shadow-lg min-h-[400px] flex flex-col items-center justify-center overflow-hidden rounded-lg">
-                    <div className="absolute transform rotate-45 bg-gray-600 text-center text-white font-semibold py-1 text-xs w-[150px] right-[-45px] top-[18px] sm:text-sm sm:w-[170px] sm:right-[-34px] sm:top-[26px]">
-                        powered by <span className="font-bold">Calendly</span>
-                    </div>
-                    <div className="text-center" style={{fontFamily: "'Open Sans', sans-serif"}}>
-                        <h3 className="text-lg md:text-xl font-semibold text-gray-800">This Calendly URL is not valid.</h3>
-                        <p className="mt-4 text-sm md:text-base text-gray-500">If you are the owner of this account, you can <a href="#" className="text-blue-600 hover:underline">log in</a> to find out more.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <section className="bg-black text-white py-20">
+        <div className="container mx-auto px-4 text-center">
+          <p className="text-[#dcb25c] font-bold tracking-widest mb-4">CONTACT US</p>
+          <h2
+            className="text-4xl md:text-5xl font-extrabold"
+            style={{ fontFamily: "'Montserrat', sans-serif" }}
+          >
+            Book A Call Below
+          </h2>
+
+          <div className="mt-12 max-w-3xl mx-auto bg-white p-12 text-gray-800 rounded-lg relative overflow-hidden shadow-2xl">
+            {/* ✅ Embedded LeadConnector Booking Calendar */}
+            <iframe
+              src="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
+              style={{ width: "100%", border: "none", overflow: "hidden", height: "700px" }}
+              scrolling="no"
+              id="cOKBSaoHIakdT7b5siL7_1761844656719"
+              title="LeadConnector Booking"
+            ></iframe>
+
+            {/* ✅ External script for the widget */}
+            <script
+              src="https://link.msgsndr.com/js/form_embed.js"
+              type="text/javascript"
+            ></script>
+          </div>
+        </div>
+      </section>
     );
 };
 
