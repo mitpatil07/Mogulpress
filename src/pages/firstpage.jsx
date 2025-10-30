@@ -20,7 +20,7 @@ import img16 from '../assets/logos/16.png'
 // const GlobalStyles = () => (
 //     <style>{`
 //         @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Poppins:wght@400;500;600;700&display=swap');
-        
+
 //         body {
 //             font-family: 'Poppins', sans-serif;
 //         }
@@ -94,9 +94,15 @@ const HeroSection = () => {
                 <p className="max-w-5xl mx-auto mb-10 text-white-400">
                     Click Below to book a call and finally get the attention and recognition you need to dominate your industry now...
                 </p>
-                <a href="#" className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block">
-                    YES! Im Ready To Get Featured
-                </a>
+                <a
+  href="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block hover:bg-yellow-500 transition-transform transform hover:scale-105"
+>
+  YES! I'm Ready To Get Featured
+</a>
+
             </div>
         </div>
     );
@@ -418,9 +424,15 @@ const CtaSection = () => {
                         <p className="text-gray-400 mb-8 leading-relaxed">
                             Click Below to finally get the attention and recognition you need to dominate your industry.
                         </p>
-                        <a href="#" className="bg-[#DDB32E] text-black text-lg font-bold px-10 py-4 rounded-md hover:bg-yellow-500 transition-transform transform hover:scale-105 inline-block">
-                            YES! Im Ready To Get Featured
+                        <a
+                            href="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-[#DDB32E] text-black text-lg font-bold px-10 py-4 rounded-md hover:bg-yellow-500 transition-transform transform hover:scale-105 inline-block"
+                        >
+                            YES! I’m Ready To Get Featured
                         </a>
+
                     </div>
                 </div>
             </div>
@@ -528,7 +540,7 @@ const ForWhomSection = () => {
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="text-center mb-16">
                     <h3 className="text-xl text-[#DDB32E] tracking-widest mb-4">THIS ISN'T FOR EVERYONE</h3>
-                    <h2 className="text-3xl md:text-6xl font-extrabold">Do You Have What It Takes To Become <br/> An Industry Leader With PR?</h2>
+                    <h2 className="text-3xl md:text-6xl font-extrabold">Do You Have What It Takes To Become <br /> An Industry Leader With PR?</h2>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
                     <div>
@@ -556,9 +568,15 @@ const ForWhomSection = () => {
 
                 </div>
                 <div className="text-center mt-10">
-                    <a href="#" className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block">
-                        YES! I'm Ready To Get Featured
-                    </a>
+                <a
+  href="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block hover:bg-yellow-500 transition-transform transform hover:scale-105"
+>
+  YES! I'm Ready To Get Featured
+</a>
+
                     <p className='mt-5 font-light text-xl font-grey-400' >Click above to finally get the attention and recognition you need to dominate your industry.</p>
                 </div>
 
