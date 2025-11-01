@@ -29,7 +29,7 @@ const AboutHeroSection = () => {
 
                 {/* Subheading */}
                 <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-gray-300 mb-8 sm:mb-12 md:mb-16 max-w-4xl mx-auto px-2 sm:px-4">
-                    MAGNATES PRESS, a powerhouse public relations firm in the USA, we've been driving transformative success for more than four years. With an illustrious track record of empowering 1000+ clients, we help brands establish unrivaled authority within their industries.
+                Magnates Press, a powerhouse public relations firm in the USA, we've been driving transformative success for more than four years. With an illustrious track record of empowering 1000+ clients, we help brands establish unrivaled authority within their industries.
                 </p>
 
                 {/* As Seen In Label */}
