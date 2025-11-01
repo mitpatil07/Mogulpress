@@ -24,12 +24,12 @@ const AboutHeroSection = () => {
 
                 {/* Main Headline */}
                 <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black leading-tight mb-6 md:mb-8 px-2 sm:px-4">
-                    Mogul Press
+                Magnates Press
                 </h1>
 
                 {/* Subheading */}
                 <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-gray-300 mb-8 sm:mb-12 md:mb-16 max-w-4xl mx-auto px-2 sm:px-4">
-                    Mogul Press, a powerhouse public relations firm in the USA, we've been driving transformative success for more than four years. With an illustrious track record of empowering 1000+ clients, we help brands establish unrivaled authority within their industries.
+                    MAGNATES PRESS, a powerhouse public relations firm in the USA, we've been driving transformative success for more than four years. With an illustrious track record of empowering 1000+ clients, we help brands establish unrivaled authority within their industries.
                 </p>
 
                 {/* As Seen In Label */}
@@ -156,7 +156,7 @@ const WhyUsSection = () => {
                          <h3 className="text-base sm:text-lg md:text-xl font-bold tracking-widest mb-3 sm:mb-4" style={{color: '#DDB32E'}}>WHY US?</h3>
                         <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold mb-4 sm:mb-6 text-black">We Do. Others don't.</h2>
                         <div className="text-gray-600 space-y-3 sm:space-y-4 text-base sm:text-lg md:text-xl leading-relaxed">
-                            <p>Mogul Press is one of the top Public Relations companies. As a PR Agency, we have worked with top entrepreneurs, helping them shape their communication strategies, publicity channels, and public relations marketing. We assist with essential public relations functions such as media relations and press release management.</p>
+                            <p>MAGNATES PRESS is one of the top Public Relations companies. As a PR Agency, we have worked with top entrepreneurs, helping them shape their communication strategies, publicity channels, and public relations marketing. We assist with essential public relations functions such as media relations and press release management.</p>
                             <p>We utilize all available tools of Public Relations, including press release distribution, press coverage, and earned media coverage. In our digital arm, we provide services like social media management, social media content creation, and promotion. Our team comprises the best and passionate professionals in our domain.</p>
                         </div>
                     </div>
