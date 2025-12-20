@@ -116,37 +116,72 @@ const ContactForm = () => {
 };
 
 const BookingSection = () => {
-    return (
-        <section className="bg-black text-white py-20">
-        <div className="container mx-auto px-4 text-center">
-          <p className="text-[#dcb25c] font-bold tracking-widest mb-4">CONTACT US</p>
-          <h2
-            className="text-4xl md:text-5xl font-extrabold"
-            style={{ fontFamily: "'Montserrat', sans-serif" }}
-          >
+  useEffect(() => {
+    // Load Calendly widget script
+    const script = document.createElement('script');
+    script.src = 'https://assets.calendly.com/assets/external/widget.js';
+    script.async = true;
+    document.body.appendChild(script);
+
+    return () => {
+      // Cleanup script on unmount
+      document.body.removeChild(script);
+    };
+  }, []);
+
+  return (
+    <div className="bg-white py-24 sm:py-32">
+      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+        <div className="mx-auto max-w-2xl text-center mb-16">
+          <h2 className="text-base font-semibold leading-7 text-[#D1A82E]">CONTACT US</h2>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             Book A Call Below
-          </h2>
-
-          <div className="mt-12 max-w-3xl mx-auto bg-white p-12 text-gray-800 rounded-lg relative overflow-hidden shadow-2xl">
-            {/* ✅ Embedded LeadConnector Booking Calendar */}
-            <iframe
-              src="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
-              style={{ width: "100%", border: "none", overflow: "hidden", height: "700px" }}
-              scrolling="no"
-              id="cOKBSaoHIakdT7b5siL7_1761844656719"
-              title="LeadConnector Booking"
-            ></iframe>
-
-            {/* ✅ External script for the widget */}
-            <script
-              src="https://link.msgsndr.com/js/form_embed.js"
-              type="text/javascript"
-            ></script>
-          </div>
+          </p>
         </div>
-      </section>
-    );
+
+        {/* Calendly inline widget */}
+        <div 
+          className="calendly-inline-widget" 
+          data-url="https://calendly.com/vivafox-media/strategy-session" 
+          style={{ minWidth: '320px', height: '700px' }}
+        ></div>
+      </div>
+    </div>
+  );
 };
+
+// const BookingSection = () => {
+//     return (
+//         <section className="bg-black text-white py-20">
+//         <div className="container mx-auto px-4 text-center">
+//           <p className="text-[#dcb25c] font-bold tracking-widest mb-4">CONTACT US</p>
+//           <h2
+//             className="text-4xl md:text-5xl font-extrabold"
+//             style={{ fontFamily: "'Montserrat', sans-serif" }}
+//           >
+//             Book A Call Below
+//           </h2>
+
+//           <div className="mt-12 max-w-3xl mx-auto bg-white p-12 text-gray-800 rounded-lg relative overflow-hidden shadow-2xl">
+//             {/* ✅ Embedded LeadConnector Booking Calendar */}
+//             <iframe
+//               src="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
+//               style={{ width: "100%", border: "none", overflow: "hidden", height: "700px" }}
+//               scrolling="no"
+//               id="cOKBSaoHIakdT7b5siL7_1761844656719"
+//               title="LeadConnector Booking"
+//             ></iframe>
+
+//             {/* ✅ External script for the widget */}
+//             <script
+//               src="https://link.msgsndr.com/js/form_embed.js"
+//               type="text/javascript"
+//             ></script>
+//           </div>
+//         </div>
+//       </section>
+//     );
+// };
 
 const ConnectSection = () => {
     return (
