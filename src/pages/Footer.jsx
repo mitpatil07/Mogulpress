@@ -71,7 +71,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#instagram" className="text-gray-300 text-xs sm:text-sm hover:text-white transition-colors">
+                <a href="https://instagram.com/magnatespress" className="text-gray-300 text-xs sm:text-sm hover:text-white transition-colors">
                   Instagram
                 </a>
               </li>
