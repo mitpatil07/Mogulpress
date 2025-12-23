@@ -429,7 +429,7 @@ const BlogSection = () => {
     const posts = [
         { date: "APRIL 18, 2024", category: "PRESS RELEASE", title: "Magnates Press: Deep Dive Into The ROI Of Press Release Distribution Services", img: post1 },
         { date: "MARCH 8, 2024", category: "PUBLIC RELATIONS", title: "5 Innovative Public Relations Firms' Strategies For Tech Startups", img: post2 },
-        { date: "JANUARY 15, 2024", category: "MARKETING", title: "Elevate Your Business: Marketing Tactics For Small Businesses", img: post3 },
+        //{ date: "JANUARY 15, 2024", category: "MARKETING", title: "Elevate Your Business: Marketing Tactics For Small Businesses", img: post3 },
     ];
 
     return (
