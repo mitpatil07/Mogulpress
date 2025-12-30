@@ -71,10 +71,17 @@ const CaseStudies = ({ caseStudies, onSelectPerson }) => {
                             Click Below to finally get the attention and recognition you need to dominate your industry.
                         </p>
                         <div className="mt-10 flex flex-col items-start gap-4">
-                            <button className="bg-[#d4af37] text-white font-bold py-5 px-12 rounded-md transition-all duration-300 hover:bg-[#c5a031] text-lg">
+                            <a
+                                href="https://calendly.com/vivafox-media/strategy-session"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="bg-[#d4af37] text-white font-bold py-5 px-12 rounded-md transition-all duration-300 hover:bg-[#c5a031] text-lg inline-block"
+                            >
                                 &#10142; YES! I'm Ready To Get Featured
-                            </button>
+                            </a>
                         </div>
+
+
                     </div>
                 </div>
             </div>

@@ -95,13 +95,13 @@ const HeroSection = () => {
                     Click Below to book a call and finally get the attention and recognition you need to dominate your industry now...
                 </p>
                 <a
-  href="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block hover:bg-yellow-500 transition-transform transform hover:scale-105"
->
-  YES! I'm Ready To Get Featured
-</a>
+                    href="https://calendly.com/vivafox-media/strategy-session"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block hover:bg-yellow-500 transition-transform transform hover:scale-105"
+                >
+                    YES! I'm Ready To Get Featured
+                </a>
 
             </div>
         </div>
@@ -406,13 +406,14 @@ const CtaSection = () => {
                             Click Below to finally get the attention and recognition you need to dominate your industry.
                         </p>
                         <a
-                            href="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
+                            href="https://calendly.com/vivafox-media/strategy-session"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-[#DDB32E] text-black text-lg font-bold px-10 py-4 rounded-md hover:bg-yellow-500 transition-transform transform hover:scale-105 inline-block"
                         >
                             YES! I’m Ready To Get Featured
                         </a>
+
 
                     </div>
                 </div>
@@ -421,15 +422,15 @@ const CtaSection = () => {
     );
 };
 
-import post1 from '../assets/imge1.png'
-import post2 from '../assets/img2.webp'
-import post3 from '../assets/img3.png'
+// import post1 from '../assets/imge1.png'
+// import post2 from '../assets/img2.webp'
+// import post3 from '../assets/img3.png'
 
 const BlogSection = () => {
     const posts = [
-        { date: "APRIL 18, 2024", category: "PRESS RELEASE", title: "Magnates Press: Deep Dive Into The ROI Of Press Release Distribution Services", img: post1 },
-        { date: "MARCH 8, 2024", category: "PUBLIC RELATIONS", title: "5 Innovative Public Relations Firms' Strategies For Tech Startups", img: post2 },
-        //{ date: "JANUARY 15, 2024", category: "MARKETING", title: "Elevate Your Business: Marketing Tactics For Small Businesses", img: post3 },
+        // { date: "APRIL 18, 2024", category: "PRESS RELEASE", title: "Magnates Press: Deep Dive Into The ROI Of Press Release Distribution Services", img: post1 },
+        // { date: "MARCH 8, 2024", category: "PUBLIC RELATIONS", title: "5 Innovative Public Relations Firms' Strategies For Tech Startups", img: post2 },
+        // { date: "JANUARY 15, 2024", category: "MARKETING", title: "Elevate Your Business: Marketing Tactics For Small Businesses", img: post3 },
     ];
 
     return (
@@ -549,14 +550,14 @@ const ForWhomSection = () => {
 
                 </div>
                 <div className="text-center mt-10">
-                <a
-  href="https://api.leadconnectorhq.com/widget/booking/cOKBSaoHIakdT7b5siL7"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block hover:bg-yellow-500 transition-transform transform hover:scale-105"
->
-  YES! I'm Ready To Get Featured
-</a>
+                    <a
+                        href="https://calendly.com/vivafox-media/strategy-session" 
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="bg-[#DDB32E] text-white text-4xl rounded-xs font-bold px-8 py-4 inline-block hover:bg-yellow-500 transition-transform transform hover:scale-105"
+                    >
+                        YES! I'm Ready To Get Featured
+                    </a>
 
                     <p className='mt-5 font-light text-xl font-grey-400' >Click above to finally get the attention and recognition you need to dominate your industry.</p>
                 </div>
